@@ -8,20 +8,19 @@ from urzednicy_pomorza_literatura import literatura
 # === wzór rekordu ===
 #
 # <person>
-#   <name>imię</name>
-#   <surname>nazwisko</surname>
-#   <location>pisze się z</location>
-#   <coat_of_arms>herb</coat_of_arms>
-#   <info>dodatkowe informacje</info>
+#   <name>nazwa (imię, imię i patronimik, imię i nazwisko)</name>
+#   <location>opcjonalnie, pisze się z</location>
+#   <coat_of_arms>opcjonalnie, herb</coat_of_arms>
+#   <info>opcjonalnie, dodatkowe informacje</info>
+#   <biblio>opcjonalnie literatura</biblio>
 #   <position>
 #       <stated_in>Źródło</stated_in>
-#       <id>identyfikator w źródle</id>
+#       <id>identyfikator w źródle (numer w wykazie urzędników)</id>
 #       <office>nazwa urzędu</office>
 #       <start_date>poczatek urzędowania</start_date>
 #       <end_date>koniec urzędowania</end_date>
 #       <date>jeżeli znana jest tylko jedna data</date>
 #   </position>
-#   <biblio>opcjonalnie literatura</biblio>
 # </person>
 
 xml_start = '''<?xml version="1.0" encoding="UTF-8"?>
@@ -42,20 +41,22 @@ skroty_urz = {
     "pcz.":"podczaszy",		
     "stol.":"stolnik",
     "pkom.":"podkomorzy",		
-    "wda":"wojewoda"
+    "wda":"wojewoda",
+    "wdy": "wojewody",
+    "klana": "kasztelana"
 }
 
 skroty_geo = {
-    "Bial.":"białogardzki",	
+    "Bial.":"białogardzki",
     "Biał.":"białogardzki",
     "Słup.":"słupski",
     "Gk.":"gdański",
     "Gk": "gdański",
     "Św.":"świecki",
     "Lub.":"lubiszewski",
-    "Tcz.?": "tczewski?",	
+    "Tcz.?": "tczewski?",
     "Tcz.":"tczewski",
-    "Sław.":"sławieński"	
+    "Sław.":"sławieński"
 }
 
 urzedy = ['kanclerz', 'kustosz', 'landwójt', 'prefekt', 'komornik', 'wojski', 'łoźniczy',
@@ -223,9 +224,9 @@ def get_person(person_text: str) -> Person:
 
         person_text = person_text[:pos]
 
-    # if 'Jankowic' in person_text:
+    # if 'Arnold (syn Arnolda wdy Św.)' in person_text:
     #     print()
-    
+
     if ',' in person_text:
         #print(person_text)
         tmp_parts = csplit(person_text)
@@ -395,6 +396,8 @@ def get_person(person_text: str) -> Person:
                 exit()
 
     urzednik.info = urzednik.info.strip()
+    urzednik.info = urzednik.info.replace('(','').replace(')','')
+    urzednik.info = shortcuts(urzednik.info)
     return urzednik
 
 
