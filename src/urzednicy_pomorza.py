@@ -86,11 +86,10 @@ class Person:
             output += f"<coat_of_arms>{self.coat_of_arms}</coat_of_arms>\n"
         if self.info:
             output += f"<info>{self.info}</info>\n"
-        if self.biblio:
-            output += f"<biblio>{self.biblio}</biblio>\n"
         if self.position:
+            output += "<positions>\n"
             for posit in self.position:
-                output += f"<position>\n"
+                output += "<position>\n"
                 if posit.office:
                     output += f"<office>{posit.office}</office>\n"
                 if posit.stated_in:
@@ -104,7 +103,13 @@ class Person:
                 if posit.date:
                     output += f"<date>{posit.date}</date>\n"
                 output += '</position>\n'
+            output += "</positions>\n"
+        if self.biblio:
+            output += "<bibliography>\n"
+            output += f"<biblio>{self.biblio}</biblio>\n"
+            output += "</bibliography>\n"
         output += "</person>\n"
+
         return output
 
 class Position:

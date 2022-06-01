@@ -1,8 +1,8 @@
-""" spis urzędników prus królewskich XV-XVIII w. """
+""" spis urzędników wojewodztwa kijowskiego i czernihowskiego XV-XVIII w. """
 import re
 from pathlib import Path
 import xml.dom.minidom
-from urzednicy_prus_krolewskich_literatura import literatura
+from urzednicy_wojewodztwa_kijowskiego_literatura import literatura
 
 
 # === wzór rekordu ===
@@ -31,72 +31,67 @@ xml_start = '''<?xml version="1.0" encoding="UTF-8"?>
 xml_end = "</persons>"
 
 skroty_geo = {
-    "cheł.": "chełmiński",
-    "pom.": "pomorski",
-    "człuch.": "człuchowski",
-    "prus.": "pruski",
-    "elb.": "elbląski",
-    "puc.": "pucki",
-    "gd.": "gdański",
-    "św.": "świecki",
-    "malb.": "malborski",
-    "tcz.": "tczewski",
-    "michał.": "michałowski",
-    "tor.": "toruński",
-    "mirach.": "mirachowski",
-    "tuch.": "tucholski",
-    "Cheł.": "chełmiński",
-    "Pom.": "pomorski",
-    "Człuch.": "człuchowski",
-    "Prus.": "pruski",
-    "Elb.": "elbląski",
-    "Puc.": "pucki",
-    "Gd.": "gdański",
-    "Św.": "świecki",
-    "Malb.": "malborski",
-    "Mlb.": "malborski",
-    "Tcz.": "tczewski",
-    "Michał.": "michałowski",
-    "Tor.": "toruński",
-    "Mirach.": "mirachowski",
-    "Tuch.": "tucholski"
+    "beł." : "bełski",
+    "bracł." : "bracławski",
+    "czern." : "czernihowski",
+    "hal." : "halicki",
+    "kam." : "kamieniecki",
+    "kij." : "kijowski",
+    "krak." : "krakowski",
+    "krzem." : "krzemieniecki",
+    "lit." : "litewski",
+    "lub." : "lubelski",
+    "lw." : "lwowski",
+    "łuc." : "łucki",
+    "now." : "nowogrodzki siewierski",
+    "owr." : "owrucki",
+    "pod." : "podolski",
+    "przem." : "przemyski",
+    "sand." : "sandomierski",
+    "tremb." : "trembowelski",
+    "włodz." : "włodzimierski",
+    "woł.": "wołyński",
+    "żyt." : "żytomierski"
 }
 
 # skróty nazw urzędów i powiązanych terminów
 skroty_urz = {
-    "bgr.": "burgrabia",
-    "chor.": "chorąży",
-    "cz.": "cześnik",
-    "gub.":"gubernator",
-    "klan": "kasztelan",
-    "ław.": "ławnik",
-    "miecz.": "miecznik",
-    "pcz.": "podczaszy",
-    "pis.": "pisarz",
-    "p.s. skarb.": "pisarz skarbowy",
-    "pkom.": "podkomorzy",
-    "psk.": "podskarbi",
-    "reg.": "regent",
-    "sęd.": "sędzia",
-    "sta": "starosta",
-    "stol.": "stolnik",
-    "wda": "wojewoda",
-    "wreg.": "wiceregent",
-    "wwda": "wicewojewoda",
-    "mieszcz.":"mieszczanin",
-    "nadw.":"nadworny",
-    "gr.":"grodzki",
-    "łow.": "łowczy"
+    "chor." : "chorąży",
+    "cz." : "cześnik",
+    "horod." : "horodniczy",
+    "klan" : "kasztelan",
+    "łow." : "łowczy",
+    "miecz." : "miecznik",
+    "pcz." : "podczaszy",
+    "pis." : "pisarz",
+    "pkom." : "podkomorzy",
+    "psęd." : "podsędek",
+    "psta" : "podstarości",
+    "pstol." : "podstoli",
+    "sęd." : "sędzia",
+    "skar." : "skarbnik",
+    "sta" : "starosta",
+    "stoi." : "stolnik",
+    "wda" : "wojewoda"
 }
 
-urzedy = ['burgrabia', 'kanclerz', 'kustosz', 'landwójt', 'prefekt', 'komornik', 
-    'wojski', 'łoźniczy', 'gubernator', 'kasztelan', 'ławnik', 'miecznik', 'podczaszy',
-    'pisarz', 'pisarz skarbowy', 'podkomorzy', 'podskarbi', 'regent', 'sędzia', 'stolnik',
-    'wójt', 'celnik', 'giermek', 'włodarz', 'łożniczy', 'namiestnik', 'klucznik',
-    'podkanclerzy', 'starosta', 'wiceregent', 'wicewojewoda',
-    'chor.', 'pstol.', 'cz.', 'sęd.', 'klan', 'skarb.', 'łow.', 'pis.', 'p.s. skarb.', 
-    'ław.', 'sta', 'pcz.', 'stol.', 'pkom.', 'wda', 'wreg.', 'wwda', 'sta', 'reg.', 
-    'psk.', 'miecz.', 'gub.', 'bgr.'
+skroty_inne = {
+    "gr." : "grodzki",
+    "gran." : "graniczny",
+    "kor." : "koronny",
+    "król." : "królewski",
+    "mn." : "mniejszy",
+    "rzk." : "rzekomy",
+    "wzm." : "wzmiankowany"
+}
+
+urzedy = [
+    "chor.", "chorąży", "cz.", "cześnik", "horod.", "horodniczy",
+    "klan", "kasztelan", "łow.", "łowczy", "miecz.", "miecznik",
+    "pcz.", "podczaszy", "pis.", "pisarz", "pkom.", "podkomorzy",
+    "psęd.", "podsędek", "psta", "podstarości", "pstol.", "podstoli",
+    "sęd.", "sędzia", "skar.", "skarbnik", "sta", "starosta",
+    "stoi.", "stolnik", "wda", "wojewoda"
     ]
 
 class Person:
@@ -151,7 +146,7 @@ class Person:
 class Position:
     def __init__(self, office:str='') -> None:
         self.office = office
-        self.stated_in = 'Urzędnicy Prus Królewskich XV-XVIII wieku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 2, 1990'
+        self.stated_in = 'Urzędnicy województw kijowskiego i czernihowskiego XV-XVIII wieku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.III, z. 4, 2002'
         self.id = ''
         self.start_date = ''
         self.end_date = ''
@@ -162,16 +157,18 @@ def shortcuts(text: str) -> str:
     """ rozwijanie skrótów """
     text_tab = text.split(' ')
     for i in range(0, len(text_tab)):
-        if text_tab[i] in skroty_urz:
+        if text_tab[i].lower() in skroty_urz:
             text_tab[i] = skroty_urz[text_tab[i]]
-        elif text_tab[i] in skroty_geo:
+        elif text_tab[i].lower() in skroty_geo:
             text_tab[i] = skroty_geo[text_tab[i]]
-        
+        elif text_tab[i].lower() in skroty_inne:
+            text_tab[i] = skroty_inne[text_tab[i]]
+
     return ' '.join(text_tab)
 
 
 # from: https://stackoverflow.com/questions/26808913/split-string-at-commas-except-when-in-bracket-environment/26809037
-def csplit(s):
+def csplit(s:str):
     """ funkcja dzieli przekazany tekst na wiersze według przecinka pomijając
         przecinki w nawiasach, zwraca listę
     """
@@ -255,7 +252,6 @@ def get_person(person_text: str, p_name:str = '', p_herb:str = '') -> Person:
     if p_name:
         urzednik.name = p_name
     else:
-        #pattern_nazwisko = r'^[\w]+'
         pattern_nazwisko = r'^[\w]+(\s+von\s{1})?'
         match = re.search(pattern_nazwisko, person_text)
         if match:
@@ -266,7 +262,6 @@ def get_person(person_text: str, p_name:str = '', p_herb:str = '') -> Person:
     if p_herb:
         urzednik.coat_of_arms = p_herb
     else:
-        #pattern_herb = r'h\.\s+[\w\s]+'
         pattern_herb = r'h\.\s+([\w\s]+\(\?\)|[\w\s]+)'
         match = re.search(pattern_herb, person_text)
         if match:
@@ -312,11 +307,10 @@ def get_person(person_text: str, p_name:str = '', p_herb:str = '') -> Person:
                         p_imie = p_imie.replace(urzednik.name, '').strip()
                     urzednik.forname = p_imie
     else: # dla podpunktów
-        #pattern_imie_pod = r'•\s+[A-ZŚŁŻ]{1}[\w]+'
-        pattern_imie_pod = r'•\s+([A-ZŚŁŻ]{1}[\w]+\s{1})*'
+        pattern_imie_pod = r'-\s+([A-ZŚŁŻ]{1}[\w]+\s{1})*'
         match = re.search(pattern_imie_pod, person_text)
         if match:
-            urzednik.forname = match.group().replace('•','').strip()
+            urzednik.forname = match.group().replace('-','').strip()
 
     pos_forname = -1
     if urzednik.forname:
@@ -421,8 +415,8 @@ def get_person(person_text: str, p_name:str = '', p_herb:str = '') -> Person:
 
 
 if __name__ == '__main__':
-    input_path = Path('.').parent / 'data/urzednicy_prus_krolewskich_XV-XVIII_wieku.txt'
-    output_path = Path('.').parent / 'output/urzednicy_prus_krolewskich_XV-XVIII_wieku.xml'
+    input_path = Path('.').parent / 'data/urzednicy_wojewodztwa_kijowskiego_czernihowskiego_XV-XVIII_wieku.txt'
+    output_path = Path('.').parent / 'output/urzednicy_wojewodztwa_kijowskiego_czernihowskiego_XV-XVIII_wieku.xml'
 
     with open(input_path, 'r', encoding='utf-8') as f:
         data = f.readlines()
@@ -436,7 +430,7 @@ if __name__ == '__main__':
     for item in data:
         item = item.strip()
         if item != '':
-            if item[0] == '•':
+            if item[0] == '-':
                 osoba = get_person(item, person_name, person_herb)
             else:
                 osoba = get_person(item)

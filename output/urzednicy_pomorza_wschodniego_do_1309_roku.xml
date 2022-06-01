@@ -3,2174 +3,2564 @@
     <person>
         <name>Adam Wyszelic</name>
         <info>syn Pawła wojewody świeckiego</info>
-        <biblio>K. Jasiński, Wyszelice. Z dziejów możnowładztwa pomorskiego na przełomie XIII i XIV w., “Zapiski Historyczne”, 22, 1956, z. 1-3, s. 215 i n.</biblio>
-        <position>
-            <office>kasztelan nowski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>105</id>
-            <date>1290</date>
-        </position>
-        <position>
-            <office>kasztelan tczewski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>222</id>
-            <date>1295</date>
-        </position>
-        <position>
-            <office>kasztelan świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>186</id>
-            <start_date>1298</start_date>
-            <end_date>1299</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>kasztelan nowski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>105</id>
+                <date>1290</date>
+            </position>
+            <position>
+                <office>kasztelan tczewski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>222</id>
+                <date>1295</date>
+            </position>
+            <position>
+                <office>kasztelan świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>186</id>
+                <start_date>1298</start_date>
+                <end_date>1299</end_date>
+            </position>
+        </positions>
+        <bibliography>
+            <biblio>K. Jasiński, Wyszelice. Z dziejów możnowładztwa pomorskiego na przełomie XIII i XIV w., “Zapiski Historyczne”, 22, 1956, z. 1-3, s. 215 i n.</biblio>
+        </bibliography>
     </person>
     <person>
         <name>Andrzej</name>
         <info>brat Unisława z Lublewa podkomorzego gdańskiego</info>
-        <biblio>B. Śliwiński, Rola polityczna rycerstwa gdańskiego w okresie wojny domowej na Pomorzu Gdańskim w latach 1269-1272, “Zapiski Historyczne”, 51, 1986, z. 2, s. 12-14</biblio>
-        <position>
-            <office>sędzia gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>81</id>
-            <start_date>1261</start_date>
-            <end_date>1294</end_date>
-        </position>
-        <position>
-            <office>kasztelan gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>64</id>
-            <start_date>1273</start_date>
-            <end_date>1294</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>sędzia gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>81</id>
+                <start_date>1261</start_date>
+                <end_date>1294</end_date>
+            </position>
+            <position>
+                <office>kasztelan gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>64</id>
+                <start_date>1273</start_date>
+                <end_date>1294</end_date>
+            </position>
+        </positions>
+        <bibliography>
+            <biblio>B. Śliwiński, Rola polityczna rycerstwa gdańskiego w okresie wojny domowej na Pomorzu Gdańskim w latach 1269-1272, “Zapiski Historyczne”, 51, 1986, z. 2, s. 12-14</biblio>
+        </bibliography>
     </person>
     <person>
         <name>Andrzej</name>
-        <position>
-            <office>podkomorzy tczewski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>228</id>
-            <start_date>1290</start_date>
-            <end_date>1298</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>podkomorzy tczewski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>228</id>
+                <start_date>1290</start_date>
+                <end_date>1298</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Arnold</name>
-        <position>
-            <office>kasztelan wyszogrodzki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>329</id>
-            <date>1238</date>
-        </position>
-        <position>
-            <office>wojewoda świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>208</id>
-            <start_date>1248</start_date>
-            <end_date>lata pięćdziesiąte XIII w.</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>kasztelan wyszogrodzki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>329</id>
+                <date>1238</date>
+            </position>
+            <position>
+                <office>wojewoda świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>208</id>
+                <start_date>1248</start_date>
+                <end_date>lata pięćdziesiąte XIII w.</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Arnold</name>
         <info>syn Arnolda wojewody świeckiego</info>
-        <position>
-            <office>cześnik świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>176</id>
-            <date>1260</date>
-        </position>
-        <position>
-            <office>kasztelan świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>183</id>
-            <start_date>1273</start_date>
-            <end_date>1274</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>cześnik świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>176</id>
+                <date>1260</date>
+            </position>
+            <position>
+                <office>kasztelan świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>183</id>
+                <start_date>1273</start_date>
+                <end_date>1274</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Arnold</name>
-        <position>
-            <office>podstoli tczewski?</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>231</id>
-            <date>1291</date>
-        </position>
+        <positions>
+            <position>
+                <office>podstoli tczewski?</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>231</id>
+                <date>1291</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Barcław</name>
-        <position>
-            <office>cześnik Sambora II</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>11</id>
-            <date>1255</date>
-        </position>
+        <positions>
+            <position>
+                <office>cześnik Sambora II</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>11</id>
+                <date>1255</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Bartłomiej</name>
-        <position>
-            <office>cześnik gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>59</id>
-            <date>polowa lat czterdziestych XIII w.</date>
-        </position>
+        <positions>
+            <position>
+                <office>cześnik gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>59</id>
+                <date>polowa lat czterdziestych XIII w.</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Benanda</name>
-        <position>
-            <office>skarbnik gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>85</id>
-            <date>1261</date>
-        </position>
-        <position>
-            <office>stolnik gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>86</id>
-            <date>1268</date>
-        </position>
+        <positions>
+            <position>
+                <office>skarbnik gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>85</id>
+                <date>1261</date>
+            </position>
+            <position>
+                <office>stolnik gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>86</id>
+                <date>1268</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Besor</name>
-        <position>
-            <office>stolnik świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>202</id>
-            <date>1238</date>
-        </position>
+        <positions>
+            <position>
+                <office>stolnik świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>202</id>
+                <date>1238</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Bezdziad</name>
-        <position>
-            <office>wojski słupski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>162</id>
-            <date>połowa lat czterdziestych XIII w.</date>
-        </position>
+        <positions>
+            <position>
+                <office>wojski słupski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>162</id>
+                <date>połowa lat czterdziestych XIII w.</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Bogumił</name>
         <location>z Kościelca</location>
         <info>Kujawianin z rodu Leszczyców</info>
-        <position>
-            <office>starosta świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>35</id>
-            <date>1309</date>
-        </position>
+        <positions>
+            <position>
+                <office>starosta świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>35</id>
+                <date>1309</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Bogusza</name>
-        <position>
-            <office>kasztelan sławieński</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>120</id>
-            <date>1248</date>
-        </position>
+        <positions>
+            <position>
+                <office>kasztelan sławieński</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>120</id>
+                <date>1248</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Bogusza</name>
         <info>Wielkopolanin z rodu Leszczyców</info>
-        <biblio>Ludzie pomorskiego średniowiecza. Szkice biograficzne, Gdańsk 1981, s. 23- 26</biblio>
-        <position>
-            <office>stolnik gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>88</id>
-            <date>1294</date>
-        </position>
-        <position>
-            <office>sędzia gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>82</id>
-            <date>1298</date>
-        </position>
-        <position>
-            <office>sędzia pomorski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>21</id>
-            <start_date>1298</start_date>
-            <end_date>1310</end_date>
-        </position>
-        <position>
-            <office>starosta gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>34</id>
-            <start_date>1307</start_date>
-            <end_date>1308</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>stolnik gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>88</id>
+                <date>1294</date>
+            </position>
+            <position>
+                <office>sędzia gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>82</id>
+                <date>1298</date>
+            </position>
+            <position>
+                <office>sędzia pomorski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>21</id>
+                <start_date>1298</start_date>
+                <end_date>1310</end_date>
+            </position>
+            <position>
+                <office>starosta gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>34</id>
+                <start_date>1307</start_date>
+                <end_date>1308</end_date>
+            </position>
+        </positions>
+        <bibliography>
+            <biblio>Ludzie pomorskiego średniowiecza. Szkice biograficzne, Gdańsk 1981, s. 23- 26</biblio>
+        </bibliography>
     </person>
     <person>
         <name>Boguta</name>
-        <position>
-            <office>wojski sławieński</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>132</id>
-            <date>1287</date>
-        </position>
+        <positions>
+            <position>
+                <office>wojski sławieński</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>132</id>
+                <date>1287</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Bożej</name>
         <info>syn Witka wojewody gdańskiego</info>
-        <position>
-            <office>cześnik świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>178</id>
-            <start_date>1273</start_date>
-            <end_date>1283</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>cześnik świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>178</id>
+                <start_date>1273</start_date>
+                <end_date>1283</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Chwalimir</name>
-        <position>
-            <office>podstoli gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>77</id>
-            <start_date>1273</start_date>
-            <end_date>1278</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>podstoli gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>77</id>
+                <start_date>1273</start_date>
+                <end_date>1278</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Czesław</name>
-        <info>syn Bartłomieja cześnika gdańskiego</info>
-        <position>
-            <office>chorąży gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>55</id>
-            <date>1268</date>
-        </position>
+        <info>syn Bartłomieja cześnik gdański</info>
+        <positions>
+            <position>
+                <office>chorąży gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>55</id>
+                <date>1268</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Czesław</name>
-        <position>
-            <office>podkomorzy słupski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>149</id>
-            <date>1276</date>
-        </position>
-        <position>
-            <office>chorąży słupski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>136</id>
-            <date>1285</date>
-        </position>
+        <positions>
+            <position>
+                <office>podkomorzy słupski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>149</id>
+                <date>1276</date>
+            </position>
+            <position>
+                <office>chorąży słupski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>136</id>
+                <date>1285</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Czesław Wirchowic</name>
-        <position>
-            <office>wojski słupski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>164</id>
-            <start_date>1282</start_date>
-            <end_date>1294</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>wojski słupski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>164</id>
+                <start_date>1282</start_date>
+                <end_date>1294</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Czesław</name>
-        <position>
-            <office>podkanclerzy pomorski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>22</id>
-            <start_date>1298</start_date>
-            <end_date>1299</end_date>
-        </position>
-        <position>
-            <office>kanclerz</office>
-            <start_date>1308</start_date>
-            <end_date>1310</end_date>
-        </position>
-        <position>
-            <office>kustosz sandomierski</office>
-            <start_date>1315</start_date>
-            <end_date>1321</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>podkanclerzy pomorski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>22</id>
+                <start_date>1298</start_date>
+                <end_date>1299</end_date>
+            </position>
+            <position>
+                <office>kanclerz</office>
+                <start_date>1308</start_date>
+                <end_date>1310</end_date>
+            </position>
+            <position>
+                <office>kustosz sandomierski</office>
+                <start_date>1315</start_date>
+                <end_date>1321</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Częstomir</name>
-        <position>
-            <office>podstoli słupski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>154</id>
-            <date>1259</date>
-        </position>
+        <positions>
+            <position>
+                <office>podstoli słupski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>154</id>
+                <date>1259</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Dalesz</name>
         <info>brat Niemira podkomorzego świeckiego i Pawła kasztelana świeckiego</info>
-        <position>
-            <office>podstoli świecki (</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>201</id>
-            <date>1273</date>
-        </position>
+        <positions>
+            <position>
+                <office>podstoli świecki (</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>201</id>
+                <date>1273</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Detlef von Sletz</name>
-        <position>
-            <office>landwójt sławieński</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>134</id>
-            <date>1271</date>
-        </position>
+        <positions>
+            <position>
+                <office>landwójt sławieński</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>134</id>
+                <date>1271</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Dobiegniew</name>
-        <position>
-            <office>wojewoda gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>91</id>
-            <start_date>1267</start_date>
-            <end_date>1268</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>wojewoda gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>91</id>
+                <start_date>1267</start_date>
+                <end_date>1268</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Dobiegniew</name>
         <info>syn Dobiegniewa wojewody gdańskiego</info>
-        <position>
-            <office>wojewoda białogardzki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>50</id>
-            <start_date>1283</start_date>
-            <end_date>1287</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>wojewoda białogardzki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>50</id>
+                <start_date>1283</start_date>
+                <end_date>1287</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Domasław</name>
-        <position>
-            <office>prefekt gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>4</id>
-            <start_date>ok. 1224</start_date>
-            <end_date>ok27</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>prefekt gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>4</id>
+                <start_date>ok. 1224</start_date>
+                <end_date>ok27</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Domasław</name>
-        <position>
-            <office>podczaszy Sambora II</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>8</id>
-            <date>1240</date>
-        </position>
-        <position>
-            <office>kasztelan lubiszewski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>103</id>
-            <date>1253</date>
-        </position>
+        <positions>
+            <position>
+                <office>podczaszy Sambora II</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>8</id>
+                <date>1240</date>
+            </position>
+            <position>
+                <office>kasztelan lubiszewski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>103</id>
+                <date>1253</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Domasław Chroślic</name>
-        <position>
-            <office>cześnik świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>177</id>
-            <date>1269?</date>
-        </position>
-        <position>
-            <office>kasztelan wyszogrodzki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>240</id>
-            <date>1288</date>
-        </position>
+        <positions>
+            <position>
+                <office>cześnik świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>177</id>
+                <date>1269?</date>
+            </position>
+            <position>
+                <office>kasztelan wyszogrodzki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>240</id>
+                <date>1288</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Frycz</name>
         <location>z Szachowic</location>
-        <info>(Fryderyk), Czech</info>
-        <biblio>PSB VII, s. 171-172</biblio>
-        <position>
-            <office>komornik Krolestwa Polskiego</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <date>1302</date>
-        </position>
-        <position>
-            <office>starosta pomorski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>31</id>
-            <start_date>1303</start_date>
-            <end_date>1304</end_date>
-        </position>
-        <position>
-            <office>starosta kujawski</office>
-        </position>
+        <info>Fryderyk, Czech</info>
+        <positions>
+            <position>
+                <office>komornik Krolestwa Polskiego</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <date>1302</date>
+            </position>
+            <position>
+                <office>starosta pomorski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>31</id>
+                <start_date>1303</start_date>
+                <end_date>1304</end_date>
+            </position>
+            <position>
+                <office>starosta kujawski</office>
+            </position>
+        </positions>
+        <bibliography>
+            <biblio>PSB VII, s. 171-172</biblio>
+        </bibliography>
     </person>
     <person>
         <name>Glabuna</name>
         <info>brat Wajsyla wojewody gdańskiego i Sadyka cześnika świeckiego, Prus</info>
-        <biblio>R. Wenskus, Eine prussische Familie in Pommerellen und ihre Erben, [w:] Europa Slavica - Europa Orientalis, Berlin 1980, s. 394 i n.</biblio>
-        <position>
-            <office>cześnik gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>61</id>
-            <start_date>1271</start_date>
-            <end_date>1283</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>cześnik gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>61</id>
+                <start_date>1271</start_date>
+                <end_date>1283</end_date>
+            </position>
+        </positions>
+        <bibliography>
+            <biblio>R. Wenskus, Eine prussische Familie in Pommerellen und ihre Erben, [w:] Europa Slavica - Europa Orientalis, Berlin 1980, s. 394 i n.</biblio>
+        </bibliography>
     </person>
     <person>
         <name>Gniewomir</name>
-        <position>
-            <office>kasztelan gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>62</id>
-            <date>1242/43</date>
-        </position>
-        <position>
-            <office>wojewoda gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>90</id>
-            <start_date>1247</start_date>
-            <end_date>1248</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>kasztelan gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>62</id>
+                <date>1242/43</date>
+            </position>
+            <position>
+                <office>wojewoda gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>90</id>
+                <start_date>1247</start_date>
+                <end_date>1248</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Gosław</name>
-        <position>
-            <office>podkomorzy sławieński</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>124</id>
-            <start_date>1257</start_date>
-            <end_date>1259</end_date>
-        </position>
-        <position>
-            <office>cześnik sławieński</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>118</id>
-            <date>1265</date>
-        </position>
+        <positions>
+            <position>
+                <office>podkomorzy sławieński</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>124</id>
+                <start_date>1257</start_date>
+                <end_date>1259</end_date>
+            </position>
+            <position>
+                <office>cześnik sławieński</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>118</id>
+                <date>1265</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Gotard</name>
-        <position>
-            <office>stolnik świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>206</id>
-            <start_date>1287</start_date>
-            <end_date>1295</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>stolnik świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>206</id>
+                <start_date>1287</start_date>
+                <end_date>1295</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Hartwig</name>
-        <position>
-            <office>kasztelan tczewski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>224</id>
-            <start_date>1304</start_date>
-            <end_date>1305</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>kasztelan tczewski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>224</id>
+                <start_date>1304</start_date>
+                <end_date>1305</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Henryk</name>
-        <position>
-            <office>podkomorzy Sambora I</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>1</id>
-            <date>1178 albo 1188</date>
-        </position>
+        <positions>
+            <position>
+                <office>podkomorzy Sambora I</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>1</id>
+                <date>1178 albo 1188</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Henryk</name>
-        <position>
-            <office>podkomorzy gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>12</id>
-            <date>1247</date>
-        </position>
+        <positions>
+            <position>
+                <office>podkomorzy gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>12</id>
+                <date>1247</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Hieronim</name>
-        <position>
-            <office>wojski gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>99</id>
-            <date>1273</date>
-        </position>
+        <positions>
+            <position>
+                <office>wojski gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>99</id>
+                <date>1273</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Hieronim</name>
         <info>może identyczny z poprzednim - Hieronim wojski gdański</info>
-        <position>
-            <office>wojski pucki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>111</id>
-            <date>1288/89</date>
-        </position>
+        <positions>
+            <position>
+                <office>wojski pucki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>111</id>
+                <date>1288/89</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Hieronim</name>
-        <position>
-            <office>podkomorzy białogardzki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>41</id>
-            <start_date>1282</start_date>
-            <end_date>1285</end_date>
-        </position>
-        <position>
-            <office>kasztelan tczewski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>221</id>
-            <start_date>1287</start_date>
-            <end_date>1292</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>podkomorzy białogardzki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>41</id>
+                <start_date>1282</start_date>
+                <end_date>1285</end_date>
+            </position>
+            <position>
+                <office>kasztelan tczewski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>221</id>
+                <start_date>1287</start_date>
+                <end_date>1292</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Iwan</name>
-        <position>
-            <office>starosta pomorski i kujawski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>29</id>
-            <date>1303</date>
-        </position>
+        <positions>
+            <position>
+                <office>starosta pomorski i kujawski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>29</id>
+                <date>1303</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Jakub</name>
-        <position>
-            <office>skarbnik Świętopełka</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>6</id>
-            <date>1227</date>
-        </position>
+        <positions>
+            <position>
+                <office>skarbnik Świętopełka</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>6</id>
+                <date>1227</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Jakub</name>
-        <position>
-            <office>podkomorzy białogardzki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>40</id>
-            <date>1270</date>
-        </position>
+        <positions>
+            <position>
+                <office>podkomorzy białogardzki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>40</id>
+                <date>1270</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Jakub</name>
-        <position>
-            <office>wojski słupski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>163</id>
-            <start_date>1274</start_date>
-            <end_date>1278</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>wojski słupski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>163</id>
+                <start_date>1274</start_date>
+                <end_date>1278</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Jakub</name>
-        <info>syn Unisława z Lublewa podkomorzy i kasztelana gdański</info>
-        <position>
-            <office>kasztelan tczewski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>226</id>
-            <start_date>1308</start_date>
-            <end_date>1310</end_date>
-        </position>
+        <info>syn Unisława z Lublewa podkomorzego i kasztelana gdańskiego</info>
+        <positions>
+            <position>
+                <office>kasztelan tczewski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>226</id>
+                <start_date>1308</start_date>
+                <end_date>1310</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Jan</name>
-        <position>
-            <office>kasztelan słupski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>139</id>
-            <date>połowa lat czterdziestych XIII w.</date>
-        </position>
-        <position>
-            <office>kasztelan gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>63</id>
-            <date>1267</date>
-        </position>
+        <positions>
+            <position>
+                <office>kasztelan słupski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>139</id>
+                <date>połowa lat czterdziestych XIII w.</date>
+            </position>
+            <position>
+                <office>kasztelan gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>63</id>
+                <date>1267</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Jan</name>
-        <position>
-            <office>stolnik świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>203</id>
-            <date>1253</date>
-        </position>
+        <positions>
+            <position>
+                <office>stolnik świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>203</id>
+                <date>1253</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Jan Legendorf</name>
-        <position>
-            <office>kanclerz Sambora II</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>13</id>
-            <start_date>1256</start_date>
-            <end_date>1258</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>kanclerz Sambora II</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>13</id>
+                <start_date>1256</start_date>
+                <end_date>1258</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Jan Preporta</name>
-        <position>
-            <office>podczaszy świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>190</id>
-            <start_date>1278</start_date>
-            <end_date>1280/81</end_date>
-        </position>
-        <position>
-            <office>cześnik świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>180</id>
-            <start_date>1290</start_date>
-            <end_date>1293</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>podczaszy świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>190</id>
+                <start_date>1278</start_date>
+                <end_date>1280/81</end_date>
+            </position>
+            <position>
+                <office>cześnik świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>180</id>
+                <start_date>1290</start_date>
+                <end_date>1293</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Jan Nosala</name>
-        <position>
-            <office>łoźniczy Mściwoja II</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>16</id>
-            <date>1279</date>
-        </position>
-        <position>
-            <office>podczaszy świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>191</id>
-            <start_date>1287</start_date>
-            <end_date>1291</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>łoźniczy Mściwoja II</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>16</id>
+                <date>1279</date>
+            </position>
+            <position>
+                <office>podczaszy świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>191</id>
+                <start_date>1287</start_date>
+                <end_date>1291</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Jan Ciemic</name>
-        <position>
-            <office>chorąży świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>174</id>
-            <date>1303</date>
-        </position>
+        <positions>
+            <position>
+                <office>chorąży świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>174</id>
+                <date>1303</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Jan</name>
         <info>syn Unisława z Lublewa podkomorzego i kasztelana gdańskiego</info>
-        <position>
-            <office>podkomorzy tczewski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>230</id>
-            <start_date>1308</start_date>
-            <end_date>1310</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>podkomorzy tczewski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>230</id>
+                <start_date>1308</start_date>
+                <end_date>1310</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Jarogniew</name>
-        <position>
-            <office>kasztelan świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>181</id>
-            <date>1238</date>
-        </position>
+        <positions>
+            <position>
+                <office>kasztelan świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>181</id>
+                <date>1238</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Jarosław</name>
-        <position>
-            <office>wojski pucki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>110</id>
-            <start_date>1281</start_date>
-            <end_date>1287</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>wojski pucki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>110</id>
+                <start_date>1281</start_date>
+                <end_date>1287</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Jarosław</name>
-        <position>
-            <office>podkomorzy białogardzki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>42</id>
-            <date>1287</date>
-        </position>
+        <positions>
+            <position>
+                <office>podkomorzy białogardzki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>42</id>
+                <date>1287</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Julian</name>
-        <position>
-            <office>cześnik tczewski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>218</id>
-            <start_date>1294</start_date>
-            <end_date>1299</end_date>
-        </position>
-        <position>
-            <office>wojewoda świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>214</id>
-            <start_date>1303</start_date>
-            <end_date>1313</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>cześnik tczewski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>218</id>
+                <start_date>1294</start_date>
+                <end_date>1299</end_date>
+            </position>
+            <position>
+                <office>wojewoda świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>214</id>
+                <start_date>1303</start_date>
+                <end_date>1313</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Konrad</name>
         <info>Kuno</info>
-        <position>
-            <office>podkomorzy słupski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>147</id>
-            <date>lata czterdzieste XIII w.</date>
-        </position>
+        <positions>
+            <position>
+                <office>podkomorzy słupski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>147</id>
+                <date>lata czterdzieste XIII w.</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Krzyżan</name>
-        <position>
-            <office>skarbnik białogardzki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>45</id>
-            <start_date>1296</start_date>
-            <end_date>1300</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>skarbnik białogardzki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>45</id>
+                <start_date>1296</start_date>
+                <end_date>1300</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Kujacha</name>
-        <position>
-            <office>sędzia garczyński</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>54</id>
-            <date>1304</date>
-        </position>
+        <positions>
+            <position>
+                <office>sędzia garczyński</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>54</id>
+                <date>1304</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Lisek</name>
-        <position>
-            <office>kasztelan sławieński</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>119</id>
-            <date>1223</date>
-        </position>
+        <positions>
+            <position>
+                <office>kasztelan sławieński</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>119</id>
+                <date>1223</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Luder</name>
-        <position>
-            <office>kanclerz Mściwoja II</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>15</id>
-            <start_date>1279</start_date>
-            <end_date>1285</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>kanclerz Mściwoja II</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>15</id>
+                <start_date>1279</start_date>
+                <end_date>1285</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Marcin</name>
-        <position>
-            <office>podczaszy słupski (Gk?)</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>145</id>
-            <date>połowa lat czterdziestych XIII w.</date>
-        </position>
-        <position>
-            <office>wojewoda słupski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>160</id>
-            <date>1274</date>
-        </position>
+        <positions>
+            <position>
+                <office>podczaszy słupski (Gk?)</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>145</id>
+                <date>połowa lat czterdziestych XIII w.</date>
+            </position>
+            <position>
+                <office>wojewoda słupski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>160</id>
+                <date>1274</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Marcin</name>
-        <position>
-            <office>wojski gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>97</id>
-            <date>1261</date>
-        </position>
+        <positions>
+            <position>
+                <office>wojski gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>97</id>
+                <date>1261</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Mateusz</name>
-        <position>
-            <office>wojski gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>98</id>
-            <date>1268</date>
-        </position>
+        <positions>
+            <position>
+                <office>wojski gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>98</id>
+                <date>1268</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Mateusz</name>
-        <position>
-            <office>wojewoda białogardzki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>49</id>
-            <date>1277</date>
-        </position>
+        <positions>
+            <position>
+                <office>wojewoda białogardzki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>49</id>
+                <date>1277</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Mateusz</name>
-        <position>
-            <office>podkomorzy sławieński</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>125</id>
-            <start_date>1283</start_date>
-            <end_date>1296</end_date>
-        </position>
-        <position>
-            <office>kasztelan sławieński</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>122</id>
-            <start_date>1298</start_date>
-            <end_date>1301</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>podkomorzy sławieński</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>125</id>
+                <start_date>1283</start_date>
+                <end_date>1296</end_date>
+            </position>
+            <position>
+                <office>kasztelan sławieński</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>122</id>
+                <start_date>1298</start_date>
+                <end_date>1301</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Mateusz</name>
-        <position>
-            <office>chorąży świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>173</id>
-            <start_date>1291</start_date>
-            <end_date>1294</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>chorąży świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>173</id>
+                <start_date>1291</start_date>
+                <end_date>1294</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Michał</name>
-        <position>
-            <office>podkomorzy białogardzki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>39</id>
-            <date>1257</date>
-        </position>
-        <position>
-            <office>kasztelan białogardzki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>37</id>
-            <date>1270</date>
-        </position>
+        <positions>
+            <position>
+                <office>podkomorzy białogardzki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>39</id>
+                <date>1257</date>
+            </position>
+            <position>
+                <office>kasztelan białogardzki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>37</id>
+                <date>1270</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Michał Mizga</name>
-        <biblio>J. Spors, Rola polityczna Święców w końcu XIII i początku XIV w., “Roczniki Historyczne”, 46, 1980, s. 19 i n.</biblio>
-        <position>
-            <office>podkomorzy słupski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>152</id>
-            <start_date>1290</start_date>
-            <end_date>1299</end_date>
-        </position>
-        <position>
-            <office>wójt i celnik pomorski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>26</id>
-            <date>1299</date>
-        </position>
+        <positions>
+            <position>
+                <office>podkomorzy słupski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>152</id>
+                <start_date>1290</start_date>
+                <end_date>1299</end_date>
+            </position>
+            <position>
+                <office>wójt i celnik pomorski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>26</id>
+                <date>1299</date>
+            </position>
+        </positions>
+        <bibliography>
+            <biblio>J. Spors, Rola polityczna Święców w końcu XIII i początku XIV w., “Roczniki Historyczne”, 46, 1980, s. 19 i n.</biblio>
+        </bibliography>
     </person>
     <person>
         <name>Michał</name>
         <info>Kujawianin</info>
-        <position>
-            <office>kasztelan świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>188</id>
-            <date>1309</date>
-        </position>
+        <positions>
+            <position>
+                <office>kasztelan świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>188</id>
+                <date>1309</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Mikołaj</name>
-        <position>
-            <office>podstoli białogardzki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>45</id>
-            <date>1257</date>
-        </position>
+        <positions>
+            <position>
+                <office>podstoli białogardzki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>45</id>
+                <date>1257</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Mikołaj Jankowic</name>
         <info>Wielkopolanin z rodu Zarembów</info>
-        <biblio>PSB XXI, s. 85</biblio>
-        <position>
-            <office>kasztelan szczycieński</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>168</id>
-            <start_date>1284</start_date>
-            <end_date>1287</end_date>
-        </position>
-        <position>
-            <office>wojewoda tczewski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>235</id>
-            <start_date>1287</start_date>
-            <end_date>1295</end_date>
-        </position>
-        <position>
-            <office>wojewoda pomorski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>20</id>
-            <start_date>1296</start_date>
-            <end_date>1299</end_date>
-        </position>
-        <position>
-            <office>wojewoda kaliski</office>
-            <date>1299</date>
-        </position>
+        <positions>
+            <position>
+                <office>kasztelan szczycieński</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>168</id>
+                <start_date>1284</start_date>
+                <end_date>1287</end_date>
+            </position>
+            <position>
+                <office>wojewoda tczewski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>235</id>
+                <start_date>1287</start_date>
+                <end_date>1295</end_date>
+            </position>
+            <position>
+                <office>wojewoda pomorski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>20</id>
+                <start_date>1296</start_date>
+                <end_date>1299</end_date>
+            </position>
+            <position>
+                <office>wojewoda kaliski</office>
+                <date>1299</date>
+            </position>
+        </positions>
+        <bibliography>
+            <biblio>PSB XXI, s. 85</biblio>
+        </bibliography>
     </person>
     <person>
         <name>Milej</name>
-        <position>
-            <office>podczaszy gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>70</id>
-            <date>1268</date>
-        </position>
+        <positions>
+            <position>
+                <office>podczaszy gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>70</id>
+                <date>1268</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Miłobrat</name>
-        <position>
-            <office>wojski sławieński</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>131</id>
-            <date>1265?</date>
-        </position>
+        <positions>
+            <position>
+                <office>wojski sławieński</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>131</id>
+                <date>1265?</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Mirosław</name>
         <info>syn Stefana z Niemicy chorążego słupskiego</info>
-        <biblio>J. Spors, Dzieje pomorskiego rodu rycerskiego Rozwarowiców w XII i na początku XIV w., “Słupskie Prace Humanistyczne”, 5, 1985, s. 7 i n.</biblio>
-        <position>
-            <office>skarbnik słupski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>157</id>
-            <start_date>1284</start_date>
-            <end_date>1287</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>skarbnik słupski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>157</id>
+                <start_date>1284</start_date>
+                <end_date>1287</end_date>
+            </position>
+        </positions>
+        <bibliography>
+            <biblio>J. Spors, Dzieje pomorskiego rodu rycerskiego Rozwarowiców w XII i na początku XIV w., “Słupskie Prace Humanistyczne”, 5, 1985, s. 7 i n.</biblio>
+        </bibliography>
     </person>
     <person>
         <name>Mirosław</name>
-        <position>
-            <office>chorąży chmieleński</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>51</id>
-            <date>przed 1308?</date>
-        </position>
+        <positions>
+            <position>
+                <office>chorąży chmieleński</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>51</id>
+                <date>przed 1308?</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Miścina Niemir</name>
-        <position>
-            <office>stolnik słupski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>159</id>
-            <date>1287</date>
-        </position>
+        <positions>
+            <position>
+                <office>stolnik słupski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>159</id>
+                <date>1287</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Mistek</name>
-        <position>
-            <office>chorąży gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>58</id>
-            <date>po 1304?</date>
-        </position>
+        <positions>
+            <position>
+                <office>chorąży gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>58</id>
+                <date>po 1304?</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Myślibor</name>
-        <position>
-            <office>stolnik świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>205</id>
-            <date>1274</date>
-        </position>
-        <position>
-            <office>kasztelan szczycieński</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>169</id>
-            <start_date>1287</start_date>
-            <end_date>1291</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>stolnik świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>205</id>
+                <date>1274</date>
+            </position>
+            <position>
+                <office>kasztelan szczycieński</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>169</id>
+                <start_date>1287</start_date>
+                <end_date>1291</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>NN</name>
-        <position>
-            <office>podkomorzy Świętopełka</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>3</id>
-            <start_date>ok. 1224</start_date>
-            <end_date>ok27</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>podkomorzy Świętopełka</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>3</id>
+                <start_date>ok. 1224</start_date>
+                <end_date>ok27</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>NN</name>
-        <position>
-            <office>chorąży raciąski?</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-        </position>
+        <positions>
+            <position>
+                <office>chorąży raciąski?</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+            </position>
+        </positions>
     </person>
     <person>
         <name>NN</name>
-        <position>
-            <office>wojski raciąski?</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-        </position>
+        <positions>
+            <position>
+                <office>wojski raciąski?</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Nasław</name>
         <info>Kujawianin z rodu Cielepałów</info>
-        <position>
-            <office>wojewoda świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>207</id>
-            <date>lata trzydzieste XIII w.</date>
-        </position>
+        <positions>
+            <position>
+                <office>wojewoda świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>207</id>
+                <date>lata trzydzieste XIII w.</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Nasław</name>
         <location>z Gęsina</location>
         <info>syn Ubysława sędziego kujawskiego, Kujawianin</info>
-        <position>
-            <office>kasztelan serocki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>116</id>
-            <start_date>1288</start_date>
-            <end_date>1294</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>kasztelan serocki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>116</id>
+                <start_date>1288</start_date>
+                <end_date>1294</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Niemierza</name>
         <info>Wielkopolanin z rodu Nałęczów?</info>
-        <biblio>PSB XXII, s. 797</biblio>
-        <position>
-            <office>kasztelan wyszogrodzki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>241</id>
-            <date>1292</date>
-        </position>
-        <position>
-            <office>wojewoda nakielski ?</office>
-            <date>1310</date>
-        </position>
+        <positions>
+            <position>
+                <office>kasztelan wyszogrodzki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>241</id>
+                <date>1292</date>
+            </position>
+            <position>
+                <office>wojewoda nakielski ?</office>
+                <date>1310</date>
+            </position>
+        </positions>
+        <bibliography>
+            <biblio>PSB XXII, s. 797</biblio>
+        </bibliography>
     </person>
     <person>
         <name>Niemir</name>
         <info>brat Dalesza podstolego świeckiego i Pawła kasztelana świeckiego</info>
-        <position>
-            <office>podkomorzy świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>197</id>
-            <start_date>1275</start_date>
-            <end_date>1280/81</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>podkomorzy świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>197</id>
+                <start_date>1275</start_date>
+                <end_date>1280/81</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Nietąg</name>
-        <position>
-            <office>wojski Sambora II</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>10</id>
-            <date>1253</date>
-        </position>
+        <positions>
+            <position>
+                <office>wojski Sambora II</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>10</id>
+                <date>1253</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Paweł Wyszelic</name>
         <info>brat Przybysława wojewody świeckiego, Prus?</info>
-        <biblio>PSB XXV, s. 365-366</biblio>
-        <position>
-            <office>podkomorzy świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>195</id>
-            <date>1260</date>
-        </position>
-        <position>
-            <office>kasztelan świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>184</id>
-            <start_date>1275</start_date>
-            <end_date>1284</end_date>
-        </position>
-        <position>
-            <office>wojewoda świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>212</id>
-            <start_date>1284</start_date>
-            <end_date>1294</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>podkomorzy świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>195</id>
+                <date>1260</date>
+            </position>
+            <position>
+                <office>kasztelan świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>184</id>
+                <start_date>1275</start_date>
+                <end_date>1284</end_date>
+            </position>
+            <position>
+                <office>wojewoda świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>212</id>
+                <start_date>1284</start_date>
+                <end_date>1294</end_date>
+            </position>
+        </positions>
+        <bibliography>
+            <biblio>PSB XXV, s. 365-366</biblio>
+        </bibliography>
     </person>
     <person>
         <name>Paweł</name>
         <info>brat Dalesza podstolego świeckiego i Niemira podkomorzego świeckiego</info>
-        <position>
-            <office>giermek Mściwoja II</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <date>1274</date>
-        </position>
-        <position>
-            <office>podkomorzy świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>198</id>
-            <start_date>1287</start_date>
-            <end_date>1306</end_date>
-        </position>
-        <position>
-            <office>kasztelan świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>187</id>
-            <start_date>1307</start_date>
-            <end_date>1308</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>giermek Mściwoja II</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <date>1274</date>
+            </position>
+            <position>
+                <office>podkomorzy świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>198</id>
+                <start_date>1287</start_date>
+                <end_date>1306</end_date>
+            </position>
+            <position>
+                <office>kasztelan świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>187</id>
+                <start_date>1307</start_date>
+                <end_date>1308</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Paweł</name>
-        <position>
-            <office>podczaszy słupski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>146</id>
-            <start_date>1283</start_date>
-            <end_date>1288</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>podczaszy słupski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>146</id>
+                <start_date>1283</start_date>
+                <end_date>1288</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Paweł</name>
-        <position>
-            <office>podstoli sławieński</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>129</id>
-            <start_date>1291</start_date>
-            <end_date>1296</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>podstoli sławieński</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>129</id>
+                <start_date>1291</start_date>
+                <end_date>1296</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Paweł Kraska</name>
-        <biblio>J. Tęgowski, O włodarzach w Polsce XIII wieku, “Studia i Materiały do Dziejów Wielkopolski i Pomorza”, 15, 1983, z. 1, s. 6 i n.</biblio>
-        <position>
-            <office>włodarz pomorski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>25</id>
-            <date>1299</date>
-        </position>
+        <positions>
+            <position>
+                <office>włodarz pomorski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>25</id>
+                <date>1299</date>
+            </position>
+        </positions>
+        <bibliography>
+            <biblio>J. Tęgowski, O włodarzach w Polsce XIII wieku, “Studia i Materiały do Dziejów Wielkopolski i Pomorza”, 15, 1983, z. 1, s. 6 i n.</biblio>
+        </bibliography>
     </person>
     <person>
         <name>Paweł</name>
-        <position>
-            <office>kasztelan szczycieński</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>170</id>
-            <date>przed 1309</date>
-        </position>
+        <positions>
+            <position>
+                <office>kasztelan szczycieński</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>170</id>
+                <date>przed 1309</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Paweł</name>
-        <position>
-            <office>podkomorzy świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>199</id>
-            <date>1313</date>
-        </position>
+        <positions>
+            <position>
+                <office>podkomorzy świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>199</id>
+                <date>1313</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Pęcina</name>
-        <position>
-            <office>podkomorzy świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>193</id>
-            <date>1238</date>
-        </position>
-        <position>
-            <office>kasztelan Rudna</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>115</id>
-            <date>lata czterdzieste XIII w.</date>
-        </position>
-        <position>
-            <office>cześnik świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>175</id>
-            <date>1253</date>
-        </position>
+        <positions>
+            <position>
+                <office>podkomorzy świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>193</id>
+                <date>1238</date>
+            </position>
+            <position>
+                <office>kasztelan Rudna</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>115</id>
+                <date>lata czterdzieste XIII w.</date>
+            </position>
+            <position>
+                <office>cześnik świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>175</id>
+                <date>1253</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Piotr</name>
-        <position>
-            <office>łowczy słupski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>141</id>
-            <start_date>1259</start_date>
-            <end_date>1259</end_date>
-        </position>
-        <position>
-            <office>cześnik słupski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>137</id>
-            <date>1269</date>
-        </position>
+        <positions>
+            <position>
+                <office>łowczy słupski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>141</id>
+                <start_date>1259</start_date>
+                <end_date>1259</end_date>
+            </position>
+            <position>
+                <office>cześnik słupski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>137</id>
+                <date>1269</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Piotr Kramsela</name>
-        <position>
-            <office>podstoli świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>200</id>
-            <date>1267</date>
-        </position>
-        <position>
-            <office>chorąży świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>172</id>
-            <date>1274</date>
-        </position>
+        <positions>
+            <position>
+                <office>podstoli świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>200</id>
+                <date>1267</date>
+            </position>
+            <position>
+                <office>chorąży świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>172</id>
+                <date>1274</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Piotr Potyra</name>
-        <position>
-            <office>podstoli gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>78</id>
-            <start_date>1287</start_date>
-            <end_date>1299</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>podstoli gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>78</id>
+                <start_date>1287</start_date>
+                <end_date>1299</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Piotr</name>
-        <position>
-            <office>podkomorzy sławieński</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>126</id>
-            <start_date>1297</start_date>
-            <end_date>1298</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>podkomorzy sławieński</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>126</id>
+                <start_date>1297</start_date>
+                <end_date>1298</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Piotr Voss</name>
         <info>zapewne z zachodniopomorskiej rodziny Vossów</info>
-        <position>
-            <office>podkomorzy gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>75</id>
-            <date>1297</date>
-        </position>
-        <position>
-            <office>kasztelan gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>66</id>
-            <date>1303</date>
-        </position>
+        <positions>
+            <position>
+                <office>podkomorzy gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>75</id>
+                <date>1297</date>
+            </position>
+            <position>
+                <office>kasztelan gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>66</id>
+                <date>1303</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Piotr</name>
         <location>z Nowego</location>
         <info>syn Święcy wojewody pomorskiego</info>
-        <biblio>PSB XXVI, s. 411-412</biblio>
-        <position>
-            <office>kanclerz pomorski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>23</id>
-            <start_date>1299</start_date>
-            <end_date>1304</end_date>
-        </position>
-        <position>
-            <office>starosta pomorski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>32</id>
-            <date>1305</date>
-        </position>
+        <positions>
+            <position>
+                <office>kanclerz pomorski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>23</id>
+                <start_date>1299</start_date>
+                <end_date>1304</end_date>
+            </position>
+            <position>
+                <office>starosta pomorski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>32</id>
+                <date>1305</date>
+            </position>
+        </positions>
+        <bibliography>
+            <biblio>PSB XXVI, s. 411-412</biblio>
+        </bibliography>
     </person>
     <person>
         <name>Piotr</name>
         <info>syn, ewentualnie bratanek Michała Mizgi wójta i celnika pomorskiego, przodek Puttkamerów</info>
-        <position>
-            <office>podkomorzy słupski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>153</id>
-            <start_date>1304</start_date>
-            <end_date>1306</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>podkomorzy słupski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>153</id>
+                <start_date>1304</start_date>
+                <end_date>1306</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Piotr</name>
-        <position>
-            <office>kasztelan tczewski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>225</id>
-            <start_date>1305</start_date>
-            <end_date>1307</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>kasztelan tczewski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>225</id>
+                <start_date>1305</start_date>
+                <end_date>1307</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Pomorza</name>
-        <position>
-            <office>podstoli słupski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>155</id>
-            <start_date>1274</start_date>
-            <end_date>1294</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>podstoli słupski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>155</id>
+                <start_date>1274</start_date>
+                <end_date>1294</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Podsad</name>
-        <position>
-            <office>sędzia gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>80</id>
-            <date>połowa lat czterdziestych XIII w.</date>
-        </position>
+        <positions>
+            <position>
+                <office>sędzia gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>80</id>
+                <date>połowa lat czterdziestych XIII w.</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Przecław</name>
-        <position>
-            <office>kasztelan tczewski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>220</id>
-            <date>1284</date>
-        </position>
+        <positions>
+            <position>
+                <office>kasztelan tczewski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>220</id>
+                <date>1284</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Przecław</name>
-        <position>
-            <office>podkomorzy białogardzki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>43</id>
-            <date>1291</date>
-        </position>
+        <positions>
+            <position>
+                <office>podkomorzy białogardzki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>43</id>
+                <date>1291</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Przecław</name>
-        <position>
-            <office>podczaszy świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>192</id>
-            <start_date>1292</start_date>
-            <end_date>1299</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>podczaszy świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>192</id>
+                <start_date>1292</start_date>
+                <end_date>1299</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Przybysław Wyszelic</name>
         <info>brat Pawła wojewody świeckiego, Prus?</info>
-        <biblio>PSB XXIX, s. 130</biblio>
-        <position>
-            <office>wojewoda świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>209</id>
-            <start_date>1253</start_date>
-            <end_date>1260</end_date>
-        </position>
-        <position>
-            <office>kasztelan inowrocławski</office>
-            <date>1268</date>
-        </position>
-        <position>
-            <office>wojewoda świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>211</id>
-            <start_date>1276</start_date>
-            <end_date>1283</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>wojewoda świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>209</id>
+                <start_date>1253</start_date>
+                <end_date>1260</end_date>
+            </position>
+            <position>
+                <office>kasztelan inowrocławski</office>
+                <date>1268</date>
+            </position>
+            <position>
+                <office>wojewoda świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>211</id>
+                <start_date>1276</start_date>
+                <end_date>1283</end_date>
+            </position>
+        </positions>
+        <bibliography>
+            <biblio>PSB XXIX, s. 130</biblio>
+        </bibliography>
     </person>
     <person>
         <name>Racław</name>
-        <position>
-            <office>wojewoda białogardzki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>48</id>
-            <date>1257</date>
-        </position>
+        <positions>
+            <position>
+                <office>wojewoda białogardzki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>48</id>
+                <date>1257</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Racław</name>
-        <position>
-            <office>kasztelan szczycieński</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>167</id>
-            <start_date>1275</start_date>
-            <end_date>1276</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>kasztelan szczycieński</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>167</id>
+                <start_date>1275</start_date>
+                <end_date>1276</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Ramota Dziwanowic</name>
         <info>wnuk Wajsyla wojewody świeckiego, gdańskiego i tczewskiego</info>
-        <biblio>R. Wenskus, Eine prussische Familie in Pommerellen und ihre Erben, [w:] Europa Slavica - Europa Orientalis, Berlin 1980, s. 394 i n.</biblio>
-        <position>
-            <office>podkomorzy Tcz</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>229</id>
-            <date>1305</date>
-        </position>
+        <positions>
+            <position>
+                <office>podkomorzy Tcz</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>229</id>
+                <date>1305</date>
+            </position>
+        </positions>
+        <bibliography>
+            <biblio>R. Wenskus, Eine prussische Familie in Pommerellen und ihre Erben, [w:] Europa Slavica - Europa Orientalis, Berlin 1980, s. 394 i n.</biblio>
+        </bibliography>
     </person>
     <person>
         <name>Sadyk</name>
         <info>brat Wajsyla wojewody świeckiego, gdańskiego i tczewskiego oraz Glabuny cześnika gdańskiego, Prus</info>
-        <biblio>R. Wenskus, Eine prussische Familie in Pommerellen und ihre Erben, [w:] Europa Slavica - Europa Orientalis, Berlin 1980, s. 394 i n.</biblio>
-        <position>
-            <office>podkomorzy świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>196</id>
-            <start_date>1270</start_date>
-            <end_date>1274</end_date>
-        </position>
-        <position>
-            <office>cześnik świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>179</id>
-            <date>1284</date>
-        </position>
+        <positions>
+            <position>
+                <office>podkomorzy świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>196</id>
+                <start_date>1270</start_date>
+                <end_date>1274</end_date>
+            </position>
+            <position>
+                <office>cześnik świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>179</id>
+                <date>1284</date>
+            </position>
+        </positions>
+        <bibliography>
+            <biblio>R. Wenskus, Eine prussische Familie in Pommerellen und ihre Erben, [w:] Europa Slavica - Europa Orientalis, Berlin 1980, s. 394 i n.</biblio>
+        </bibliography>
     </person>
     <person>
         <name>Sławomir</name>
-        <position>
-            <office>stolnik białogardzki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>46</id>
-            <date>1277</date>
-        </position>
+        <positions>
+            <position>
+                <office>stolnik białogardzki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>46</id>
+                <date>1277</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Sokół</name>
-        <position>
-            <office>kasztelan raciąski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>113</id>
-            <date>1256</date>
-        </position>
+        <positions>
+            <position>
+                <office>kasztelan raciąski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>113</id>
+                <date>1256</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Stanisław</name>
-        <position>
-            <office>łożniczy Mściwoja II</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>17</id>
-            <date>1279</date>
-        </position>
+        <positions>
+            <position>
+                <office>łożniczy Mściwoja II</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>17</id>
+                <date>1279</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Stanisław Wyszelic</name>
         <info>syn Pawła wojewody świeckiego</info>
-        <biblio>K. Jasiński, Wyszelice. Z dziejów możnowładztwa pomorskiego na przełomie XIII i XIV w., “Zapiski Historyczne”, 22, 1956, z. 1-3, s. 213 i n.</biblio>
-        <position>
-            <office>kasztelan świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>185</id>
-            <start_date>1284</start_date>
-            <end_date>1295</end_date>
-        </position>
-        <position>
-            <office>wojewoda świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>213</id>
-            <date>1298</date>
-        </position>
+        <positions>
+            <position>
+                <office>kasztelan świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>185</id>
+                <start_date>1284</start_date>
+                <end_date>1295</end_date>
+            </position>
+            <position>
+                <office>wojewoda świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>213</id>
+                <date>1298</date>
+            </position>
+        </positions>
+        <bibliography>
+            <biblio>K. Jasiński, Wyszelice. Z dziejów możnowładztwa pomorskiego na przełomie XIII i XIV w., “Zapiski Historyczne”, 22, 1956, z. 1-3, s. 213 i n.</biblio>
+        </bibliography>
     </person>
     <person>
         <name>Stefan</name>
-        <position>
-            <office>podkomorzy Racibora sławieński</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>2</id>
-            <date>1223</date>
-        </position>
+        <positions>
+            <position>
+                <office>podkomorzy Racibora sławieński</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>2</id>
+                <date>1223</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Stefan</name>
-        <position>
-            <office>wojski Świętopełka</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>7</id>
-            <date>1227</date>
-        </position>
-        <position>
-            <office>sędzia gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>79</id>
-            <date>1240</date>
-        </position>
+        <positions>
+            <position>
+                <office>wojski Świętopełka</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>7</id>
+                <date>1227</date>
+            </position>
+            <position>
+                <office>sędzia gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>79</id>
+                <date>1240</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Stefan</name>
         <location>z Niemicy</location>
-        <biblio>J. Spors, Dzieje pomorskiego rodu rycerskiego Rozwarowiców w XII i na początku XIV w., “Słupskie Prace Humanistyczne”, 5, 1985, s. 7 i n.</biblio>
-        <position>
-            <office>stolnik Barnima I</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <start_date>1234</start_date>
-            <end_date>1236</end_date>
-        </position>
-        <position>
-            <office>chorąży słupski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>135</id>
-            <date>1252</date>
-        </position>
+        <positions>
+            <position>
+                <office>stolnik Barnima I</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <start_date>1234</start_date>
+                <end_date>1236</end_date>
+            </position>
+            <position>
+                <office>chorąży słupski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>135</id>
+                <date>1252</date>
+            </position>
+        </positions>
+        <bibliography>
+            <biblio>SpRozw., s. 7 i n.</biblio>
+        </bibliography>
     </person>
     <person>
         <name>Stefan</name>
-        <position>
-            <office>podkomorzy słupski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>150</id>
-            <date>1282</date>
-        </position>
+        <positions>
+            <position>
+                <office>podkomorzy słupski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>150</id>
+                <date>1282</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Stefan</name>
-        <position>
-            <office>podstoli sławieński</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>128</id>
-            <date>1287</date>
-        </position>
+        <positions>
+            <position>
+                <office>podstoli sławieński</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>128</id>
+                <date>1287</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Stefan</name>
-        <position>
-            <office>wojski świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>216</id>
-            <date>1287</date>
-        </position>
+        <positions>
+            <position>
+                <office>wojski świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>216</id>
+                <date>1287</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Stefan</name>
         <info>syn Chwalimira podstolego gdańskiego</info>
-        <biblio>B. Śliwiński, Dowódcy grodu gdańskiego w 1308 roku, “Zapiski Historyczne”, 53, 1988, z. 1/2</biblio>
-        <position>
-            <office>giermek Mściwoja II</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>89</id>
-            <date>1300</date>
-        </position>
+        <positions>
+            <position>
+                <office>giermek Mściwoja II</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>89</id>
+                <date>1300</date>
+            </position>
+        </positions>
+        <bibliography>
+            <biblio>B. Śliwiński, Dowódcy grodu gdańskiego w 1308 roku, “Zapiski Historyczne”, 53, 1988, z. 1/2</biblio>
+        </bibliography>
     </person>
     <person>
         <name>Stefan</name>
-        <position>
-            <office>kasztelan chmieleński</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>53</id>
-            <date>1308?</date>
-        </position>
+        <positions>
+            <position>
+                <office>kasztelan chmieleński</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>53</id>
+                <date>1308?</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Stefan</name>
-        <position>
-            <office>łowczy słupski?</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>144</id>
-            <date>przed 1310</date>
-        </position>
+        <positions>
+            <position>
+                <office>łowczy słupski?</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>144</id>
+                <date>przed 1310</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Sulimir</name>
-        <position>
-            <office>stolnik słupski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <start_date>1257</start_date>
-            <end_date>1259</end_date>
-        </position>
-        <position>
-            <office>kasztelan białogardzki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>38</id>
-            <start_date>1277</start_date>
-            <end_date>1285</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>stolnik słupski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <start_date>1257</start_date>
+                <end_date>1259</end_date>
+            </position>
+            <position>
+                <office>kasztelan białogardzki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>38</id>
+                <start_date>1277</start_date>
+                <end_date>1285</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Sulisław</name>
-        <position>
-            <office>łowczy gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>68</id>
-            <date>1268</date>
-        </position>
-        <position>
-            <office>stolnik gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>87</id>
-            <start_date>1280</start_date>
-            <end_date>1285</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>łowczy gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>68</id>
+                <date>1268</date>
+            </position>
+            <position>
+                <office>stolnik gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>87</id>
+                <start_date>1280</start_date>
+                <end_date>1285</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Sulisław</name>
-        <position>
-            <office>stolnik białogardzki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>47</id>
-            <date>1284</date>
-        </position>
+        <positions>
+            <position>
+                <office>stolnik białogardzki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>47</id>
+                <date>1284</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Ścibor</name>
-        <position>
-            <office>kasztelan tczewski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>219</id>
-            <date>1253</date>
-        </position>
+        <positions>
+            <position>
+                <office>kasztelan tczewski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>219</id>
+                <date>1253</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Ścibor</name>
-        <position>
-            <office>kasztelan pucki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>106</id>
-            <start_date>1271</start_date>
-            <end_date>1289</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>kasztelan pucki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>106</id>
+                <start_date>1271</start_date>
+                <end_date>1289</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Ścibor</name>
         <info>brat Wilka sędziego tczewskiego</info>
-        <position>
-            <office>kasztelan starogardzko-zaborski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>166</id>
-            <start_date>1292</start_date>
-            <end_date>1293</end_date>
-        </position>
-        <position>
-            <office>kasztelan tczewski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>223</id>
-            <start_date>1296</start_date>
-            <end_date>1304</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>kasztelan starogardzko-zaborski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>166</id>
+                <start_date>1292</start_date>
+                <end_date>1293</end_date>
+            </position>
+            <position>
+                <office>kasztelan tczewski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>223</id>
+                <start_date>1296</start_date>
+                <end_date>1304</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Święca</name>
         <info>brat Wawrzyńca kasztelana słupskiego</info>
-        <biblio>Morre, s. 35 i n.</biblio>
-        <position>
-            <office>podstoli sławieński</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>127</id>
-            <start_date>1257</start_date>
-            <end_date>1259</end_date>
-        </position>
-        <position>
-            <office>podkomorzy słupski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>148</id>
-            <start_date>1269</start_date>
-            <end_date>1274</end_date>
-        </position>
-        <position>
-            <office>kasztelan słupski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>139</id>
-            <start_date>1275</start_date>
-            <end_date>1287</end_date>
-        </position>
-        <position>
-            <office>wojewoda gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>94</id>
-            <start_date>1286</start_date>
-            <end_date>1306</end_date>
-        </position>
-        <position>
-            <office>wojewoda tczewski?</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>234</id>
-            <start_date>1286</start_date>
-            <end_date>1287?</end_date>
-        </position>
-        <position>
-            <office>wojewoda słupski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>161</id>
-            <start_date>1287</start_date>
-            <end_date>1308</end_date>
-        </position>
-        <position>
-            <office>starosta pomorski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>24</id>
-            <start_date>1299</start_date>
-            <end_date>1301</end_date>
-        </position>
-        <position>
-            <office>wojewoda pomorski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>27</id>
-            <start_date>1301</start_date>
-            <end_date>1306</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>podstoli sławieński</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>127</id>
+                <start_date>1257</start_date>
+                <end_date>1259</end_date>
+            </position>
+            <position>
+                <office>podkomorzy słupski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>148</id>
+                <start_date>1269</start_date>
+                <end_date>1274</end_date>
+            </position>
+            <position>
+                <office>kasztelan słupski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>139</id>
+                <start_date>1275</start_date>
+                <end_date>1287</end_date>
+            </position>
+            <position>
+                <office>wojewoda gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>94</id>
+                <start_date>1286</start_date>
+                <end_date>1306</end_date>
+            </position>
+            <position>
+                <office>wojewoda tczewski?</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>234</id>
+                <start_date>1286</start_date>
+                <end_date>1287?</end_date>
+            </position>
+            <position>
+                <office>wojewoda słupski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>161</id>
+                <start_date>1287</start_date>
+                <end_date>1308</end_date>
+            </position>
+            <position>
+                <office>starosta pomorski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>24</id>
+                <start_date>1299</start_date>
+                <end_date>1301</end_date>
+            </position>
+            <position>
+                <office>wojewoda pomorski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>27</id>
+                <start_date>1301</start_date>
+                <end_date>1306</end_date>
+            </position>
+        </positions>
+        <bibliography>
+            <biblio>Morre, s. 35 i n.</biblio>
+        </bibliography>
     </person>
     <person>
         <name>Świętek</name>
-        <position>
-            <office>podczaszy gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>69</id>
-            <date>połowa lat czterdziestych XIII w.</date>
-        </position>
+        <positions>
+            <position>
+                <office>podczaszy gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>69</id>
+                <date>połowa lat czterdziestych XIII w.</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Świętek</name>
-        <position>
-            <office>wojski świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>217</id>
-            <date>1313</date>
-        </position>
+        <positions>
+            <position>
+                <office>wojski świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>217</id>
+                <date>1313</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Świętosław</name>
         <info>Wielkopolanin z rodu Pałuków</info>
-        <biblio>J. Bieniak, Wielkopolska, Kujawy, ziemie łęczycka i sieradzka wobec problemu zjednoczenia państwowego w l. 1300- 1306, Toruń 1969, s. 167-168</biblio>
-        <position>
-            <office>wojewoda tczewski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>237</id>
-            <start_date>1306</start_date>
-            <end_date>1308</end_date>
-        </position>
-        <position>
-            <office>stolnik pomorski?</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>36</id>
-            <date>1309</date>
-        </position>
+        <positions>
+            <position>
+                <office>wojewoda tczewski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>237</id>
+                <start_date>1306</start_date>
+                <end_date>1308</end_date>
+            </position>
+            <position>
+                <office>stolnik pomorski?</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>36</id>
+                <date>1309</date>
+            </position>
+        </positions>
+        <bibliography>
+            <biblio>J. Bieniak, Wielkopolska, Kujawy, ziemie łęczycka i sieradzka wobec problemu zjednoczenia państwowego w l. 1300- 1306, Toruń 1969, s. 167-168</biblio>
+        </bibliography>
     </person>
     <person>
         <name>Tasso</name>
         <location>z Wizenburga</location>
-        <position>
-            <office>starosta pomorski i kujawski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>28</id>
-            <date>1303</date>
-        </position>
+        <positions>
+            <position>
+                <office>starosta pomorski i kujawski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>28</id>
+                <date>1303</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Temo</name>
         <info>Prus?</info>
-        <position>
-            <office>podkomorzy świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>194</id>
-            <date>lata pięćdziesiąte XIII w.</date>
-        </position>
-        <position>
-            <office>stolnik świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>204</id>
-            <date>1260</date>
-        </position>
+        <positions>
+            <position>
+                <office>podkomorzy świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>194</id>
+                <date>lata pięćdziesiąte XIII w.</date>
+            </position>
+            <position>
+                <office>stolnik świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>204</id>
+                <date>1260</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Teodoryk</name>
         <info>Prus</info>
-        <biblio>J. Powierski, Uwagi o wydarzeniach kujawskich w latach 1267- 1271, “Prace Komisji Historycznej Bydgoskiego Towarzystwa Naukowego”, 5, 1968, s. 44 i n.</biblio>
-        <position>
-            <office>kasztelan świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>182</id>
-            <date>1260</date>
-        </position>
-        <position>
-            <office>kasztelan bydgoski</office>
-            <date>1268</date>
-        </position>
+        <positions>
+            <position>
+                <office>kasztelan świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>182</id>
+                <date>1260</date>
+            </position>
+            <position>
+                <office>kasztelan bydgoski</office>
+                <date>1268</date>
+            </position>
+        </positions>
+        <bibliography>
+            <biblio>J. Powierski, Uwagi o wydarzeniach kujawskich w latach 1267- 1271, “Prace Komisji Historycznej Bydgoskiego Towarzystwa Naukowego”, 5, 1968, s. 44 i n.</biblio>
+        </bibliography>
     </person>
     <person>
         <name>Tomisław</name>
-        <position>
-            <office>podkanclerzy Mściwoja II</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>18</id>
-            <date>1294</date>
-        </position>
+        <positions>
+            <position>
+                <office>podkanclerzy Mściwoja II</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>18</id>
+                <date>1294</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Trojan</name>
         <info>Kujawianin z rodu Powałów?</info>
-        <position>
-            <office>kasztelan chmieleński</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>52</id>
-            <date>1304</date>
-        </position>
+        <positions>
+            <position>
+                <office>kasztelan chmieleński</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>52</id>
+                <date>1304</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Ulryk</name>
         <location>z Boskowic</location>
         <info>Czech</info>
-        <position>
-            <office>starosta Krolestwa Polskiego</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>30</id>
-            <date>1303</date>
-        </position>
+        <positions>
+            <position>
+                <office>starosta Krolestwa Polskiego</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>30</id>
+                <date>1303</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Unisław</name>
         <location>z Lublewa</location>
         <info>brat Andrzeja kasztelana i sędziego gdańskiego</info>
-        <biblio>B. Śliwiński, Rola polityczna rycerstwa gdańskiego w okresie wojny domowej na Pomorzu Gdańskim w latach 1269-1272, “Zapiski Historyczne”, 51, 1986, z. 2, s. 12-14</biblio>
-        <position>
-            <office>podkomorzy gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>74</id>
-            <start_date>1268</start_date>
-            <end_date>1295</end_date>
-        </position>
-        <position>
-            <office>wojewoda gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>95</id>
-            <date>1296</date>
-        </position>
-        <position>
-            <office>kasztelan gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>65</id>
-            <start_date>1297</start_date>
-            <end_date>1298</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>podkomorzy gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>74</id>
+                <start_date>1268</start_date>
+                <end_date>1295</end_date>
+            </position>
+            <position>
+                <office>wojewoda gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>95</id>
+                <date>1296</date>
+            </position>
+            <position>
+                <office>kasztelan gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>65</id>
+                <start_date>1297</start_date>
+                <end_date>1298</end_date>
+            </position>
+        </positions>
+        <bibliography>
+            <biblio>B. Śliwiński, Rola polityczna rycerstwa gdańskiego w okresie wojny domowej na Pomorzu Gdańskim w latach 1269-1272, “Zapiski Historyczne”, 51, 1986, z. 2, s. 12-14</biblio>
+        </bibliography>
     </person>
     <person>
         <name>Virgvo</name>
         <info>Vitgo</info>
-        <position>
-            <office>stolnik Sambora II</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>9</id>
-            <date>1240</date>
-        </position>
+        <positions>
+            <position>
+                <office>stolnik Sambora II</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>9</id>
+                <date>1240</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Volseke</name>
-        <position>
-            <office>chorąży sławieński</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>117</id>
-            <start_date>1296</start_date>
-            <end_date>1298</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>chorąży sławieński</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>117</id>
+                <start_date>1296</start_date>
+                <end_date>1298</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Wacław</name>
         <info>syn Gniewomira wojewody gdańskiego</info>
-        <position>
-            <office>podstoli Świętopełka</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>5</id>
-            <date>1227</date>
-        </position>
-        <position>
-            <office>podkomorzy gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>73</id>
-            <date>1248</date>
-        </position>
+        <positions>
+            <position>
+                <office>podstoli Świętopełka</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>5</id>
+                <date>1227</date>
+            </position>
+            <position>
+                <office>podkomorzy gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>73</id>
+                <date>1248</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Wacław</name>
-        <position>
-            <office>podczaszy gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>71</id>
-            <date>1287</date>
-        </position>
+        <positions>
+            <position>
+                <office>podczaszy gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>71</id>
+                <date>1287</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Wacław Budka</name>
-        <position>
-            <office>podstoli tczewski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>232</id>
-            <date>1292</date>
-        </position>
+        <positions>
+            <position>
+                <office>podstoli tczewski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>232</id>
+                <date>1292</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Wacław</name>
-        <position>
-            <office>podstoli Shzp.</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>156</id>
-            <start_date>1304</start_date>
-            <end_date>1308</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>podstoli Shzp.</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>156</id>
+                <start_date>1304</start_date>
+                <end_date>1308</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Wacław Lis</name>
         <location>z Kalinowy</location>
         <info>Sieradzanin z rodu Zarembów</info>
-        <biblio>J. Bieniak, Wielkopolska, Kujawy, ziemie łęczycka i sieradzka wobec problemu zjednoczenia państwowego w l. 1300- 1306, Toruń 1969, s. 117-118</biblio>
-        <position>
-            <office>komornik pomorski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>33</id>
-            <start_date>ok. 1306</start_date>
-            <end_date>ok09</end_date>
-        </position>
-        <position>
-            <office>chorąży sieradzki</office>
-            <start_date>1321</start_date>
-            <end_date>1327</end_date>
-        </position>
-        <position>
-            <office>cześnik</office>
-            <start_date>1336</start_date>
-            <end_date>1339</end_date>
-        </position>
-        <position>
-            <office>kasztelan sieradzki</office>
-            <start_date>1343</start_date>
-            <end_date>1346</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>komornik pomorski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>33</id>
+                <start_date>ok. 1306</start_date>
+                <end_date>ok09</end_date>
+            </position>
+            <position>
+                <office>chorąży sieradzki</office>
+                <start_date>1321</start_date>
+                <end_date>1327</end_date>
+            </position>
+            <position>
+                <office>cześnik</office>
+                <start_date>1336</start_date>
+                <end_date>1339</end_date>
+            </position>
+            <position>
+                <office>kasztelan sieradzki</office>
+                <start_date>1343</start_date>
+                <end_date>1346</end_date>
+            </position>
+        </positions>
+        <bibliography>
+            <biblio>J. Bieniak, Wielkopolska, Kujawy, ziemie łęczycka i sieradzka wobec problemu zjednoczenia państwowego w l. 1300- 1306, Toruń 1969, s. 117-118</biblio>
+        </bibliography>
     </person>
     <person>
         <name>Wacław</name>
         <location>z Kleszna</location>
-        <position>
-            <office>wojski słupski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>165</id>
-            <date>1307</date>
-        </position>
+        <positions>
+            <position>
+                <office>wojski słupski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>165</id>
+                <date>1307</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Wajsyl</name>
         <info>brat Glabuny cześnika gdańskiego i Sadyka cześnika świeckiego, Prus</info>
-        <biblio>Ludzie pomorskiego średniowiecza. Szkice biograficzne, Gdańsk 1981, s. 160-163</biblio>
-        <position>
-            <office>cześnik gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>60</id>
-            <start_date>1267</start_date>
-            <end_date>1268</end_date>
-        </position>
-        <position>
-            <office>wojewoda świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>210</id>
-            <start_date>1270</start_date>
-            <end_date>1274</end_date>
-        </position>
-        <position>
-            <office>wojewoda tczewski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>233</id>
-            <start_date>1276</start_date>
-            <end_date>1277</end_date>
-        </position>
-        <position>
-            <office>wojewoda gdański i tczewski?</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>93</id>
-            <start_date>1278</start_date>
-            <end_date>1285</end_date>
-        </position>
-        <position>
-            <office>wojewoda tczewski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>236</id>
-            <date>1298</date>
-        </position>
+        <positions>
+            <position>
+                <office>cześnik gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>60</id>
+                <start_date>1267</start_date>
+                <end_date>1268</end_date>
+            </position>
+            <position>
+                <office>wojewoda świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>210</id>
+                <start_date>1270</start_date>
+                <end_date>1274</end_date>
+            </position>
+            <position>
+                <office>wojewoda tczewski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>233</id>
+                <start_date>1276</start_date>
+                <end_date>1277</end_date>
+            </position>
+            <position>
+                <office>wojewoda gdański i tczewski?</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>93</id>
+                <start_date>1278</start_date>
+                <end_date>1285</end_date>
+            </position>
+            <position>
+                <office>wojewoda tczewski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>236</id>
+                <date>1298</date>
+            </position>
+        </positions>
+        <bibliography>
+            <biblio>Ludzie pomorskiego średniowiecza. Szkice biograficzne, Gdańsk 1981, s. 160-163</biblio>
+        </bibliography>
     </person>
     <person>
         <name>Warszon</name>
-        <position>
-            <office>kasztelan lubiszewski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>102</id>
-            <date>1248</date>
-        </position>
+        <positions>
+            <position>
+                <office>kasztelan lubiszewski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>102</id>
+                <date>1248</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Wawrzyniec</name>
         <info>brat Święcy wojewody pomorskiego</info>
-        <biblio>P. Morré, Die Swenzonen in Ostpommern. Aufstieg und Herrschaft 1269-1357, “Baltische Studien”, Neue Fo1ge, 41, 1939, s. 35 i n.</biblio>
-        <position>
-            <office>łowczy słupski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>142</id>
-            <date>1276</date>
-        </position>
-        <position>
-            <office>podkomorzy słupski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>151</id>
-            <start_date>1284</start_date>
-            <end_date>1288</end_date>
-        </position>
-        <position>
-            <office>kasztelan słupski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>140</id>
-            <start_date>1288</start_date>
-            <end_date>1312</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>łowczy słupski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>142</id>
+                <date>1276</date>
+            </position>
+            <position>
+                <office>podkomorzy słupski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>151</id>
+                <start_date>1284</start_date>
+                <end_date>1288</end_date>
+            </position>
+            <position>
+                <office>kasztelan słupski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>140</id>
+                <start_date>1288</start_date>
+                <end_date>1312</end_date>
+            </position>
+        </positions>
+        <bibliography>
+            <biblio>P. Morré, Die Swenzonen in Ostpommern. Aufstieg und Herrschaft 1269-1357, “Baltische Studien”, Neue Fo1ge, 41, 1939, s. 35 i n.</biblio>
+        </bibliography>
     </person>
     <person>
         <name>Wilk</name>
         <info>brat Ścibora kasztelana tczewskiego</info>
-        <position>
-            <office>sędzia tczewski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>238</id>
-            <start_date>1304</start_date>
-            <end_date>1305</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>sędzia tczewski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>238</id>
+                <start_date>1304</start_date>
+                <end_date>1305</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Witek</name>
-        <position>
-            <office>wojski sławieński</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>134</id>
-            <date>1252</date>
-        </position>
-        <position>
-            <office>kasztelan sławieński</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>121</id>
-            <start_date>1262</start_date>
-            <end_date>1265</end_date>
-        </position>
-        <position>
-            <office>wojewoda gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>92</id>
-            <start_date>1271</start_date>
-            <end_date>77</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>wojski sławieński</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>134</id>
+                <date>1252</date>
+            </position>
+            <position>
+                <office>kasztelan sławieński</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>121</id>
+                <start_date>1262</start_date>
+                <end_date>1265</end_date>
+            </position>
+            <position>
+                <office>wojewoda gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>92</id>
+                <start_date>1271</start_date>
+                <end_date>1277</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Witek</name>
-        <position>
-            <office>kanclerz Sambora II?</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>14</id>
-            <date>1256?</date>
-        </position>
+        <positions>
+            <position>
+                <office>kanclerz Sambora II?</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>14</id>
+                <date>1256?</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Witosław</name>
-        <position>
-            <office>giermek Mściwoja II</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <date>1282</date>
-        </position>
-        <position>
-            <office>zapewne identyczny z kasztelanem nowskim</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>104</id>
-            <date>1290</date>
-        </position>
+        <positions>
+            <position>
+                <office>giermek Mściwoja II</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <date>1282</date>
+            </position>
+            <position>
+                <office>zapewne identyczny z kasztelanem nowskim</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>104</id>
+                <date>1290</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Wojach</name>
-        <biblio>G. Labuda, O źródłach Kroniki pruskiej Piotra z Dusburga, (95 “Komunikaty Mazursko-Warmińskie”, nr 2-3, 1971, s. 232-233</biblio>
-        <position>
-            <office>wojski gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>96</id>
-            <date>1242/43</date>
-        </position>
-        <position>
-            <office>skarbnik gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>84</id>
-            <date>1247</date>
-        </position>
-        <position>
-            <office>podstoli gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>76</id>
-            <start_date>1248</start_date>
-            <end_date>68</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>wojski gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>96</id>
+                <date>1242/43</date>
+            </position>
+            <position>
+                <office>skarbnik gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>84</id>
+                <date>1247</date>
+            </position>
+            <position>
+                <office>podstoli gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>76</id>
+                <start_date>1248</start_date>
+                <end_date>­68</end_date>
+            </position>
+        </positions>
+        <bibliography>
+            <biblio>G. Labuda, O źródłach Kroniki pruskiej Piotra z Dusburga, (95 “Komunikaty Mazursko-Warmińskie”, nr 2-3, 1971, s. 232-233</biblio>
+        </bibliography>
     </person>
     <person>
         <name>Wojan</name>
         <info>syn Miłobrata wojskiego sławieńskiego</info>
-        <position>
-            <office>wojski sławieński</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>133</id>
-            <date>1296</date>
-        </position>
+        <positions>
+            <position>
+                <office>wojski sławieński</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>133</id>
+                <date>1296</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Wojciech</name>
-        <position>
-            <office>podkomorzy Sambora II</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>12</id>
-            <date>1255</date>
-        </position>
+        <positions>
+            <position>
+                <office>podkomorzy Sambora II</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>12</id>
+                <date>1255</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Wojciech</name>
-        <position>
-            <office>podkomorzy tczewski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>227</id>
-            <start_date>1276</start_date>
-            <end_date>lata osiemdziesiąte XIII w.</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>podkomorzy tczewski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>227</id>
+                <start_date>1276</start_date>
+                <end_date>lata osiemdziesiąte XIII w.</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Wojciech</name>
-        <position>
-            <office>chorąży gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>56</id>
-            <date>1291</date>
-        </position>
-        <position>
-            <office>kasztelan pucki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>107</id>
-            <start_date>1296</start_date>
-            <end_date>1303</end_date>
-        </position>
-        <position>
-            <office>kasztelan gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>67</id>
-            <start_date>1304</start_date>
-            <end_date>14</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>chorąży gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>56</id>
+                <date>1291</date>
+            </position>
+            <position>
+                <office>kasztelan pucki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>107</id>
+                <start_date>1296</start_date>
+                <end_date>1303</end_date>
+            </position>
+            <position>
+                <office>kasztelan gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>67</id>
+                <start_date>1304</start_date>
+                <end_date>1314</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Wojen</name>
-        <position>
-            <office>kasztelan lubiszewski</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>101</id>
-            <date>1240</date>
-        </position>
+        <positions>
+            <position>
+                <office>kasztelan lubiszewski</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>101</id>
+                <date>1240</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Wojsław</name>
         <location>z Kryr</location>
         <info>Kujawianin z rodu Powałów</info>
-        <position>
-            <office>namiestnik Władysława Łokietka</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>19</id>
-            <date>1296</date>
-        </position>
+        <positions>
+            <position>
+                <office>namiestnik Władysława Łokietka</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>19</id>
+                <date>1296</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Wojsław</name>
-        <position>
-            <office>chorąży gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>57</id>
-            <start_date>1296</start_date>
-            <end_date>1303</end_date>
-        </position>
-        <position>
-            <office>kasztelan pucki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>108</id>
-            <start_date>1304</start_date>
-            <end_date>1316</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>chorąży gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>57</id>
+                <start_date>1296</start_date>
+                <end_date>1303</end_date>
+            </position>
+            <position>
+                <office>kasztelan pucki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>108</id>
+                <start_date>1304</start_date>
+                <end_date>1316</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Wojsław</name>
         <location>z Rusocina</location>
         <info>może identyczny z poprzednim? - Wojsław chorąży gdański</info>
-        <position>
-            <office>sędzia pucki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>109</id>
-            <date>1306</date>
-        </position>
+        <positions>
+            <position>
+                <office>sędzia pucki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>109</id>
+                <date>1306</date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Zdzisław</name>
-        <position>
-            <office>wojski gdański</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>100</id>
-            <start_date>1282</start_date>
-            <end_date>1296</end_date>
-        </position>
+        <positions>
+            <position>
+                <office>wojski gdański</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>100</id>
+                <start_date>1282</start_date>
+                <end_date>1296</end_date>
+            </position>
+        </positions>
     </person>
     <person>
         <name>Żyra</name>
         <location>z Krupocina</location>
-        <position>
-            <office>klucznik świecki</office>
-            <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
-            <id>189</id>
-            <date>1309</date>
-        </position>
+        <positions>
+            <position>
+                <office>klucznik świecki</office>
+                <stated_in>Urzędnicy Pomorza Wschodniego do 1309 roku, w: Urzędnicy dawnej Rzeczypospolitej XII - XVIII wieku, t.V, z. 1, 1989</stated_in>
+                <id>189</id>
+                <date>1309</date>
+            </position>
+        </positions>
     </person>
 </persons>
