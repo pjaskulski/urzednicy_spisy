@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 *.txt
 *.sql
+*.sh
+output/*.xml
