@@ -12,7 +12,6 @@ from urzednicy_sandomierscy_literatura import literatura
 #   <surname>nazwisko</surname>
 #   <location>opcjonalnie, pisze się z</location>
 #   <coat_of_arms>opcjonalnie, herb</coat_of_arms>
-#   <lineage>opcjonalnie, ród</lineage>
 #   <info>opcjonalnie, dodatkowe informacje</info>
 #   <position>
 #       <stated_in>Źródło</stated_in>
@@ -87,9 +86,17 @@ skroty_urz = {
 }
 
 skroty_inne = {
+    "gr." : "grodzki",
+    "gran." : "graniczny",
+    "kor." : "koronny",
+    "król." : "królewski",
+    "mn." : "mniejszy",
+    "wzm." : "wzmiankowany",
     "N ": "Nominacja",
     "R ": "Rezygnacja",
-    "par.": "parafia"
+    "par.": "parafia",
+    "nadw." : "nadworny",
+    "ziem." : "ziemski"
 }
 
 
@@ -100,25 +107,25 @@ class Person:
         self.name = ''
         self.location = ''
         self.coat_of_arms = ''
-        self.lineage = ''
         self.info = ''
         self.position = []
         self.biblio = []
-        self.text = ''
 
     def get_xml(self) -> str:
         """ zwraca dane osoby w formacie xml """
         output = "<person>"
         if self.surname:
             output += f"<surname>{self.surname}</surname>\n"
+
+
         if self.name:
+
+
             output += f"<name>{self.name}</name>\n"
         if self.location:
             output += f"<location>{self.location}</location>\n"
         if self.coat_of_arms:
             output += f"<coat_of_arms>{self.coat_of_arms}</coat_of_arms>\n"
-        if self.lineage:
-            output += f"<lineage>{self.lineage}</lineage>\n"
         if self.info:
             output += f"<info>{self.info}</info>\n"
         if self.position:
@@ -193,15 +200,15 @@ def shortcuts(text: str) -> str:
 
 # from: https://stackoverflow.com/questions/26808913/split-string-at-commas-except-when-in-bracket-environment/26809037
 def csplit(s:str):
-    """ funkcja dzieli przekazany tekst na wiersze według średnika pomijając
-        średniki w nawiasach, zwraca listę
+    """ funkcja dzieli przekazany tekst na wiersze według przecinka pomijając
+        przecinki w nawiasach, zwraca listę
     """
     parts = []
     bracket_level = 0
     current = []
     # trick to remove special-case of trailing chars
-    for c in (s + ";"):
-        if c == ";" and bracket_level == 0:
+    for c in (s + ","):
+        if c == "," and bracket_level == 0:
             parts.append("".join(current))
             current = []
         else:
@@ -218,7 +225,7 @@ def double_space(value:str) -> str:
     return ' '.join(value.strip().split())
 
 
-def get_person(person_text: str, p_location:str='', p_herb:str='', p_rod:str='') -> Person:
+def get_person(person_text: str, p_name:str='', p_herb:str='') -> Person:
     """ przetwarza podany tekst na obiekt klasy Person """
     result = None
     person_text = person_text.strip()
@@ -262,16 +269,11 @@ def get_person(person_text: str, p_location:str='', p_herb:str='', p_rod:str='')
     ]
 
     urzednik = Person()
-    urzednik.text = person_text
-
-    person_texts = csplit(person_text)
-    person_text = person_texts[0].strip()
-    position_text = person_texts[1].strip()
 
     # literatura?
-    if position_text.endswith(")"):
-        pos = position_text.rfind("(")
-        urzednik.biblio = position_text[pos:].replace("(", "").replace(")", "")
+    if person_text.endswith(")"):
+        pos = person_text.rfind("(")
+        urzednik.biblio = person_text[pos:].replace("(", "").replace(")", "")
         t_biblio = urzednik.biblio.split(";")
         list_biblio = []
         if t_biblio:
@@ -284,138 +286,238 @@ def get_person(person_text: str, p_location:str='', p_herb:str='', p_rod:str='')
                 list_biblio.append(t_bibl)
 
         urzednik.biblio = list_biblio
-        position_text = position_text[:pos]
+        person_text = person_text[:pos]
 
-    # dodatkowa literatura w danych urzędnika
-    if person_text.endswith(")"):
-        pos = person_text.rfind("(")
-        urzednik_biblio = person_text[pos:].replace("(", "").replace(")", "")
-        # czy to na pewno literatura
-        if urzednik_biblio[0].isupper() and (',' in urzednik_biblio or 's.' in urzednik_biblio or 'nr ' in urzednik_biblio):
-            t_biblio = urzednik_biblio.split(";")
-            list_biblio = []
-            if t_biblio:
-                for t_bibl in t_biblio:
-                    t_bibl = t_bibl.strip()
-                    for skrot, rozwiniecie in literatura.items():
-                        if skrot in t_bibl:
-                            t_bibl = t_bibl.replace(skrot, rozwiniecie)
-                            break
-                    list_biblio.append(t_bibl)
-
-            urzednik.biblio += list_biblio
-            person_text = person_text[:pos]
-
-    pattern_herb = r'(\s{1}|^)h\.\s+([\wąśężźćńłó\s]+\(\?\)|[\wąśężźćńłó\s]+\??|\?)'
-    match = re.search(pattern_herb, person_text)
-    if match:
-        urzednik.coat_of_arms = match.group().replace('h.', '').strip()
-        if urzednik.coat_of_arms == 'własnego':
-            urzednik.coat_of_arms = 'h. własnego'
-        elif urzednik.coat_of_arms == 'nieznanego':
-            urzednik.coat_of_arms = 'h. nieznanego'
-        elif urzednik.coat_of_arms == '?':
-            urzednik.coat_of_arms = 'h. ?'
-
-        person_text = person_text.replace(match.group(), '')
-
-    if not urzednik.coat_of_arms and p_herb:
-        urzednik.coat_of_arms = p_herb
-
-    # urzednik - dane
-    # if 'i z Borku' in person_text:
-    #     print()
-
-    # jeżeli podpostać
-    if person_text.startswith('- '):
-        person_text = person_text[2:].strip()
-        tmp_location = ''
-        pattern_info = r'\([a-zA-ZĄŚĘŻŹĆŃŁÓąśężźćńłó\s\.\?,]+\)'
-        matches = [x.group() for x in re.finditer(pattern_info, person_text)]
-        for match in matches:
-            tmp_info = match.strip().replace('(', '').replace(')', '')
-            if (tmp_info.startswith('z ') or tmp_info.startswith('i z ')
-                or tmp_info.startswith('i ze ') or ' z ' in tmp_info):
-                tmp_location += ' ' + tmp_info
-                tmp_location = double_space(tmp_location.strip())
-            else:
-                if urzednik.info:
-                    urzednik.info += ',' + tmp_info
-                else:
-                    urzednik.info = tmp_info
-            person_text = person_text.replace(match, '').replace(' , ', ', ')
-            person_text = double_space(person_text)
-
-        urzednik.name = person_text.strip()
-        if tmp_location:
-            if 'i ' in tmp_location:
-                if p_location:
-                    urzednik.name += ' ' + p_location + ' ' + tmp_location
-                    urzednik.location = p_location + ' ' + tmp_location
-                else:
-                    urzednik.name += ' ' + tmp_location
-                    urzednik.location = tmp_location
-            else:
-                urzednik.name += ' ' + tmp_location
-                urzednik.location = tmp_location
-
-    # pełna postać
+    # nazwisko
+    if p_name:
+        urzednik.surname = p_name
+        if ' z ' in urzednik.surname:
+            tmp_name = urzednik.surname.split(" z ")
+            urzednik.location = "z " + tmp_name[1].strip()
     else:
-        tmp_location = ''
-        pattern_info = r'\([a-zA-Ząśężźćńłó\s\.\?,]+\)'
-        matches = [x.group() for x in re.finditer(pattern_info, person_text)]
-        for match in matches:
-            tmp_info = match.strip().replace('(', '').replace(')', '')
-            if tmp_info.startswith('z ') or tmp_info.startswith('i z ') or ' z ' in tmp_info:
-                tmp_location += ' ' + tmp_info
-                tmp_location = double_space(tmp_location.strip())
-            else:
-                if urzednik.info:
-                    urzednik.info += ',' + tmp_info
-                else:
-                    urzednik.info = tmp_info
-            person_text = person_text.replace(match, '').replace(' , ', ', ')
-            person_text = double_space(person_text)
-
-        pattern_rod = r'[A-ZŚŻŹĆŁ]{1}[\wąśężźćńłó]+:'
-        match = re.search(pattern_rod, person_text)
+        pattern_nazwisko = r'^[\wąśężźćńłó]+,\s+z\s+[\wąśężźćńłó]+'
+        match = re.search(pattern_nazwisko, person_text)
         if match:
-            urzednik.lineage = match.group().replace(':', '').strip()
-            pos = person_text.find(match.group()) + len(match.group())
-            person_text = double_space(person_text.replace(match.group(), ''))
-
-        pattern_imie_location = r'^[A-ZŚŻŹĆŁ]{1}[\wąśężźćńłó]+,\s+z\s+[\wąśężźćńłó]+'
-        match = re.search(pattern_imie_location, person_text)
-        if match:
-            urzednik_name = match.group().replace(',', '').strip()
-            tmp_name = urzednik_name.split(' ')
-            urzednik.name = f'{tmp_name[2]} {tmp_name[1]} {tmp_name[0]}'
-            if tmp_name[1] == 'z':
-                urzednik.location = f'{tmp_name[1]} {tmp_name[0]}'
-                if tmp_location:
-                    urzednik.location += ' ' + tmp_location
+            toponimik = match.group()
+            tmp_topo = toponimik.split(',')
+            urzednik.location = 'z ' + tmp_topo[0]
+            urzednik.name = tmp_topo[1].replace(" z ", "").strip()
         else:
-            urzednik.name = person_text.strip()
+            #pattern_nazwisko = r'^[\wąśężźćńłó-]+'
+            pattern_nazwisko = r'^[A-ZĄŚĘŻŹĆŃŁÓ]{1}([\w]+\s+z\s+[A-ZĄŚĘŻŹĆŃŁÓ]{1}[\w]+|[\w\ąśężźćńłó-]+)'
+            match = re.search(pattern_nazwisko, person_text)
+            if match:
+                urzednik.surname = match.group().strip()
+                if ' z ' in urzednik.surname:
+                    tmp_name = urzednik.surname.split(" z ")
+                    #urzednik.surname = tmp_name[0].strip()
+                    urzednik.location = "z " + tmp_name[1].strip()
 
-    if not urzednik.lineage and p_rod:
-        urzednik.lineage = p_rod
+        person_text = re.sub(pattern_nazwisko, '', person_text).strip()
 
-    # czy to na pewno przechodzi z nadrzędnej postaci do podrzędnej?
-    if not urzednik.location and p_location:
-        urzednik.location = p_location
-        urzednik.name += ' ' + p_location
+        # weryfikacja czy drugie słowo tekstu też nie jest nazwiskiem
+        match = re.search(pattern_nazwisko, person_text)
+        if match:
+            tmp_nazwisko = match.group().strip()
+            if tmp_nazwisko.endswith('ski') or tmp_nazwisko.endswith('cki') or tmp_nazwisko.endswith('dzki'):
+                urzednik.surname += ' ' + tmp_nazwisko
+                person_text = re.sub(pattern_nazwisko, '', person_text).strip()
+    # herb
+    if p_herb:
+        urzednik.coat_of_arms = p_herb
+    else:
+        pattern_herb = r'(\s{1}|^)h\.\s+([\wąśężźćńłó\s]+\(\?\)|[\wąśężźćńłó\s]+\??|\?)'
+        match = re.search(pattern_herb, person_text)
+        if match:
+            urzednik.coat_of_arms = match.group().replace('h.', '').strip()
+            if urzednik.coat_of_arms == 'własnego':
+                urzednik.coat_of_arms = 'h. własnego'
+            elif urzednik.coat_of_arms == 'nieznanego':
+                urzednik.coat_of_arms = 'h. nieznanego'
+            elif urzednik.coat_of_arms == '?':
+                urzednik.coat_of_arms = 'h. ?'
+    pos_herb = -1
+    if not p_herb:
+        if urzednik.coat_of_arms:
+            pos_herb = person_text.find(urzednik.coat_of_arms)
+            if pos_herb > -1:
+                pos_herb += len(urzednik.coat_of_arms)
 
-    # if 'GWP' in position_text:
+    # literatura do herbu
+    if not p_herb and urzednik.coat_of_arms:
+        herb_biblio = ''
+        if '):' in person_text:
+            herb_biblio_start = 0
+            pos = person_text.find('):')
+            for i in range(pos, 1, -1):
+                if person_text[i] == '(':
+                    herb_biblio_start = i
+                    break
+            if herb_biblio_start:
+                herb_biblio = person_text[herb_biblio_start:pos+1]
+        else:
+            tmp_person_herb = person_text[pos_herb:].strip()
+            if tmp_person_herb.startswith('('):
+                pos = tmp_person_herb.find(')')
+                if pos > -1:
+                    herb_biblio = tmp_person_herb[:pos+1]
+        if herb_biblio:
+            # usnięcie literatury do herbu
+            person_text = person_text.replace(herb_biblio, '')
+            herb_biblio = herb_biblio.replace('(', '').replace(')', '').strip()
+            t_biblio = herb_biblio.split(";")
+            for t_bibl in t_biblio:
+                t_bibl = t_bibl.strip()
+                for skrot, rozwiniecie in literatura.items():
+                    if skrot in t_bibl:
+                        t_bibl = t_bibl.replace(skrot, rozwiniecie)
+                        break
+                urzednik.biblio.append(t_bibl)
+    # if 'Andrzej Jan psta i sęd. gr. Krak.' in person_text:
+    #     print()
+    # imie
+    if not p_name:
+        # imie, jeżeli dwukropek to imie po dwukropku a potem już urząd lub urzędy
+        # usunąć spacje,:, h.
+        pattern_imie = r':\s+[A-Z]{1}[\wł]+\s+z\s+[A-ZŚŻŹŁ]{1}[\wąśężźćńłó]+\s+(i\s+[A-Z]{1}[\wąśężźćńłó]+)?'
+        match = re.search(pattern_imie, person_text)
+        if match: # jeżeli imię/imiona z miejscowością po herbie
+            p_imie = match.group().replace(':','').strip()
+            urzednik.name = p_imie
+        else:
+            pattern_imie = r':\s+([A-Z]{1}[\w]+\s{1})*'
+            match = re.search(pattern_imie, person_text)
+            if match: # jeżeli imię/imiona po herbie
+                p_imie = match.group().replace(':','').strip()
+                urzednik.name = p_imie
+
+        # jeżeli nie znaleziono dotąd imienia
+        if not urzednik.name:
+            # jeżeli imię przed herbem
+            pattern_imie = r'\s?([A-ZŚŁŻ{1}[a-ząśężźćńłó\.]+\s{1})*h\.'
+            match = re.search(pattern_imie, person_text)
+            if match and match.group().strip() != 'h.':
+                p_imie = match.group().replace('h.', '').strip()
+                urzednik.name = p_imie
+            else: # jeżeli imię imiona po nazwisku a przed dodatkowymi informacjami w nawiasie
+                pattern_imie = r'([A-ZŚŁŻ]{1}[\w\.]+\s{1})*'
+                if '(' in person_text:
+                    stop = person_text.find('(')
+                    tmp_text = person_text[:stop]
+                else:
+                    tmp_text = person_text
+                match = re.search(pattern_imie, tmp_text)
+                if match:
+                    p_imie = match.group().strip()
+                    if urzednik.surname in p_imie:
+                        p_imie = p_imie.replace(urzednik.surname, '').strip()
+                    urzednik.name = p_imie
+                #if not urzednik.name:
+                # dodatkowe szukanie imion przed pierwszym przecinkiem
+                tmp_text = csplit(person_text)[0]
+                tmp_text = re.sub(r'\([a-zA-Ząśężźćńłó\s\.\?,]+\)', '', tmp_text).strip()
+                tmp_text = double_space(tmp_text)
+                words = tmp_text.split(' ')
+                for word in words:
+                    if word[0].isupper() or word == 'z' or word == 'ze':
+                        if word not in urzednik.name:
+                            urzednik.name += ' ' + word
+                            urzednik.name = urzednik.name.strip()
+                    else:
+                        break
+    else: # dla podpunktów
+        pattern_imie_pod = r'-\s+([A-ZŚŁŻ]{1}[\w\.]+\s{1})*'
+        match = re.search(pattern_imie_pod, person_text)
+        if match:
+            urzednik.name = match.group().replace('-','').strip()
+        tmp_text = person_text.replace(match.group(), '')
+        words = tmp_text.split(' ')
+        for word in words:
+            if (word[0].isupper() and word not in urzednik.name) or word == 'z' or word == 'ze':
+                urzednik.name += ' ' + word
+                urzednik.name = urzednik.name.strip()
+            else:
+                break
+
+    pos_forname = -1
+    if urzednik.name:
+        pos_forname = person_text.find(urzednik.name)
+        if pos_forname > -1:
+            pos_forname += len(urzednik.name)
+
+
+    # czy location ukrywa się w imionach?
+    if ' z ' in urzednik.name:
+        match = re.search(r'z\s+[\wąśężźć”łó]+', urzednik.name)
+        if match:
+            urzednik.location = match.group().strip()
+
+    # ddatkowe informacje, np. location
+    pos_info = -1
+    pattern_info = r'\([a-zA-Ząśężźćńłó\s\.\?,]+\)'
+    # tymczasowo usuwanie herbu
+    if urzednik.coat_of_arms and urzednik.coat_of_arms in person_text:
+        person_text_tmp = double_space(person_text.replace(urzednik.coat_of_arms, '').strip())
+    else:
+        person_text_tmp = person_text
+
+    matches = [x.group() for x in re.finditer(pattern_info, person_text_tmp)]
+    for match in matches:
+        tmp_info = match.strip().replace('(', '').replace(')', '')
+        # jeżeli to wiek, to nie jest to dodatkowa informacja tylko data spr. urzędu
+        if tmp_info == 'XVIII w.' or tmp_info == 'XVII w.':
+            matches.remove(match)
+            continue
+        if 'z ' in tmp_info or 'von' in tmp_info:
+            urzednik.location = tmp_info
+        else:
+            if urzednik.info:
+                urzednik.info += ',' + tmp_info
+            else:
+                urzednik.info = tmp_info
+    if matches:
+        pos_info = person_text.find(matches[-1]) + len(matches[-1])
+
+    pos = max(pos_forname, pos_herb, pos_info)
+    positions_text = person_text[pos:]
+    if ',' in positions_text:
+        tmp_positions = csplit(positions_text)
+    else:
+        tmp_positions = [positions_text]
+
+    # if 'pwda Krak. 1782' in positions_text:
     #     print()
 
     # urzędy
-    tmp_positions = position_text.split(",")
+    prev_office = ''
     for position in tmp_positions:
         position = position.strip()
         if position == '': # pomijanie pustych
             continue
 
+        urzad = Position()
+
+        # czy do urzędu jest przypisana literatura w nawiasie?
+        if position.endswith(")"):
+            pos = position.rfind("(")
+            tmp_biblio = position[pos:].strip()
+            # czy to literatura?
+            if re.search(r'\([A-Z]+', tmp_biblio):
+                tmp_biblio = position[pos:].replace("(", "").replace(")", "")
+                t_biblio = tmp_biblio.split(";")
+                list_biblio = []
+                if t_biblio:
+                    for t_bibl in t_biblio:
+                        t_bibl = t_bibl.strip()
+                        for skrot, rozwiniecie in literatura.items():
+                            if skrot in t_bibl:
+                                t_bibl = t_bibl.replace(skrot, rozwiniecie)
+                                break
+                        list_biblio.append(t_bibl)
+                urzednik.biblio += list_biblio
+                position = position[:pos]
         # test czy to nie jest tylko inf. o roku narodzin lub śmierci urzędnika, albo
+        # dokładna data rezygnacji z ostatniego urzędu
         is_info = False
         patterns_info = [r'zm\.\s+a\.\s+\d{4}',
                          r'zm\.\s+a\.\s+[XVI]{1,4}\s+\d{4}',
@@ -452,9 +554,7 @@ def get_person(person_text: str, p_location:str='', p_herb:str='', p_rod:str='')
         if is_info:
             continue
 
-        urzad = Position()
-
-        # lata urzędowania - wyszukiwanie
+        # lata
         year = ''
         for y in patterns:
             match = re.search(y, position)
@@ -462,7 +562,7 @@ def get_person(person_text: str, p_location:str='', p_herb:str='', p_rod:str='')
                 year_n = match.group()
                 year = year_n.replace("(","").replace(")","")
                 break
-        # jeżeli znaleziono lata urzędowania
+
         if year:
             if "-" in year and ',' not in year:
                 tmp_year = year.split("-")
@@ -475,33 +575,64 @@ def get_person(person_text: str, p_location:str='', p_herb:str='', p_rod:str='')
                 elif '/' in urzad.end_date and len(urzad.end_date) == 5:
                     urzad.end_date = urzad.start_date[:2] + urzad.end_date
             else:
-                urzad.date = year
+                urzad.date = year.strip()
 
         pos_year = -1
         if year:
             pos_year = position.find(year_n)
             urzad.office = position[:pos_year].strip()
-
-            # identyfikator z wykazu
-            pattern_id = r'\)\s+\d{1,4}(\s+zob.\s+też\s+nr\s+\d{1,4})?'
-            match = re.search(pattern_id, position)
-            if match:
-                urzad.id = match.group().replace(')','').strip()
         else:
             urzad.office = position.strip()
+
+        # obsługa urzędów wymienianych po przecinku np. "sta malborski, gdański,
+        # chełmski" gdzie tylko dla pierwszej pozycji jest nazwa urzędu
+        t_office = urzad.office.split(' ')
+        if len(t_office) > 1:
+            prev_office = t_office[0]
+        else:
+            if urzad.office.endswith('i') or urzad.office.endswith('.'):
+                urzad.office = prev_office + ' ' + urzad.office
+        # identyfikator z wykazu
+        # pattern_id = r'\)\s+\d{1,4}([abcdef]{1})?'
+        pattern_id = r'\)\s+(\s?\d{1,4}([abcdef]{1})?)*'
+        match = re.search(pattern_id, position)
+        if match:
+            urzad.id = match.group().replace(')','').strip()
+        else:
+            # jeżeli nie ma id, ale jest odnośnik do id innej postaci
+            pattern_id = r'\)\s+zob\.\s+nr\s+\d{1,4}([abcdef]{1})?'
+            match = re.search(pattern_id, position)
+            if match:
+                urzad.reference_id = match.group().replace(')','').strip()
+            else:
+                pattern_id = r'\s?zob\.\s+nr\s+\d{1,4}([abcdef]{1})?'
+                match = re.search(pattern_id, position)
+                if match:
+                    urzad.reference_id = match.group().strip()
+                    urzad.office = re.sub(pattern_id, '', urzad.office)
+
 
         # jeżeli brak id z wykazu to informacja o urzędzie nie pochodzi z tego tomu
         if not urzad.id:
             urzad.stated_in = ''
+        if ' ' in urzad.id.strip():
+            urzad.id = urzad.id.replace(' ', ', ')
 
+        # to nie jest urzad, ale wskazanie na coś i nie na nr w wykazie
+        if 'zob.' in urzad.office:
+            if urzednik.info:
+                urzednik.info += ', ' + urzad.office
+            else:
+                urzednik.info = urzad.office
+            urzad.office = ''
         if urzad.office:
             urzad.office = shortcuts(urzad.office).strip()
             urzednik.position.append(urzad)
-
     urzednik.info = urzednik.info.strip()
     urzednik.info = shortcuts(urzednik.info)
     if urzednik.name.endswith(','):
         urzednik.name = urzednik.name[:-1]
+
     return urzednik
 
 
@@ -516,38 +647,26 @@ if __name__ == '__main__':
     data = [re.sub(r'[\u00AD]', '', line) for line in data]
 
     lista = []
-    person_location = person_herb = person_rod = ''
+    person_name = person_herb = ''
 
     for item in data:
         item = item.strip()
         if item != '':
             if item[0] == '-':
-                osoba = get_person(item, person_location, person_herb, person_rod)
+                osoba = get_person(item, person_name, person_herb)
             else:
                 osoba = get_person(item)
-                person_location = osoba.location
-                pos = -1
-                if ' i z ' in person_location:
-                    pos = person_location.find(' i z ')
-                elif ' i ze ' in person_location:
-                    pos =  person_location.find(' i ze ')
-                if pos > -1:
-                    person_location = person_location[:pos].strip()
-
+                person_name = osoba.surname
                 person_herb = osoba.coat_of_arms
-                person_rod = osoba.lineage
 
             if osoba:
                 lista.append(osoba)
+                print(osoba.surname, osoba.name)
 
     with open(output_path, 'w', encoding='utf-8') as f:
         xml_text = xml_start + '\n'
         for person in lista:
             rekord = person.get_xml()
-            print(person.text)
-            print()
-            print(rekord)
-            print()
             xml_text += rekord + '\n'
         xml_text += xml_end + '\n'
         t_xml = xml.dom.minidom.parseString(xml_text)
