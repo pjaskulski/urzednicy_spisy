@@ -642,8 +642,6 @@ if __name__ == '__main__':
             if item[0] == '-':
                 osoba = get_person(item, person_name, person_herb)
             else:
-                if 'Blisniow' in item:
-                    print()
                 osoba = get_person(item)
                 person_name = osoba.surname
                 person_herb = osoba.coat_of_arms

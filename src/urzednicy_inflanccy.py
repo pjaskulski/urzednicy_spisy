@@ -76,10 +76,11 @@ skroty_urz = {
     "sekr.":"sekretarz",
     "sęd.":"sędzia",
     "skar.":"skarbnik",
-    "stoi.":"stolnik",
+    "stol.":"stolnik",
     "straż.":"strażnik",
     "struk.":"strukczaszy",
-    "wda":"wojewoda"
+    "wda":"wojewoda",
+    "sta":"starosta"
 }
 
 skroty_inne = {
