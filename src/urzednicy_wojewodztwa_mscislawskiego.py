@@ -2,7 +2,7 @@
 import re
 from pathlib import Path
 import xml.dom.minidom
-from urzednicy_wojewodztwa_mscislawskiego_literatura import literatura
+from urzednicy_ziemia_brzeska_literatura import literatura
 
 
 # === wzór rekordu ===
