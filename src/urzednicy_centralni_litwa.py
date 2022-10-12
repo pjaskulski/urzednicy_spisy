@@ -67,6 +67,7 @@ skroty_geo = {
     "słon.":"słonimski",
     "smol.":"smoleński",
     "starod.":"starodubowski",
+    "starodub.":"starodubowski",
     "tr.":"trocki",
     "up.":"upicki",
     "warsz.":"warszawski",
@@ -113,6 +114,7 @@ skroty_urz = {
     "psta":"podstarości",
     "inst.":"instygator",
     "pstol.":"podstoli",
+    "pstoli":"podstoli",
     "kan.":"kanonik",
     "ref.":"referendarz",
     "kanc.":"kanclerz",
@@ -160,7 +162,9 @@ skroty_inne = {
     "mn.":"mniejszy",
     "ndw.":"nadworny",
     "odm.":"odmieniony",
-    "skarb.":"skarbowy"
+    "skarb.":"skarbowy",
+    "pl.":"polny",
+    "p/l":"przed/lub"
 }
 
 
@@ -337,7 +341,9 @@ def get_person(person_text: str, p_name:str='', p_herb:str='') -> Person:
         r'\(\s?a\/l\.\s+\d{4}\)', # (a/l. 1778)
         r'\(między\s+\d{4}\s+a\s+\d{4}\)', # (między 1755 a 1757)
         r'\(\d{4}\?-\d{2}\?\)', # (1761?-94?)
-        r'\(\d{1}\s+poł\.\s+[XVI]+\s+w\.\)', # (1 połocki XVII w.)
+        r'\(\d{1}\s+poł\.\s+[XVI]+\s+w\.\)', # (1 poł. XVII w.)
+        r'\(2\.\s+połowa\s+[XVI]+\s+w\.\)', # 2. połowa XV w.
+        r'\(już\s+\d{4}\)', # już 1754
 
         r'1\d{3}\s?-\s?1\d{3}',
         r'1\d{3}\s?-\s?\d{2}',
