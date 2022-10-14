@@ -35,27 +35,47 @@ xml_end = "</persons>"
 
 skroty_geo = {
     "beł.":"bełski",
+    "Beł.":"bełski",
     "bu.":"buski",
+    "Bu.":"buski",
     "ch.":"chełmski",
+    "Ch.":"chełmski",
     "gn.":"gnieźnieński",
+    "Gn.":"gnieźnieński",
     "grab.":"grabowiecki",
+    "Grab.":"grabowiecki",
     "hal.":"halicki",
+    "Hal.":"halicki",
     "hor.":"horodelski",
+    "Hor.":"horodelski",
     "kal.":"kaliski",
+    "Kal.":"kaliski",
     "krak.":"krakowski",
+    "Krak.":"krakowski",
     "krasn.":"krasnostawski",
+    "Krasn.":"krasnostawski",
     "gr.":"grodzki",
     "gran.":"graniczny",
     "lbcz.":"lubaczowski",
+    "Lbcz.":"lubaczowski",
     "lit.":"litewski",
+    "Lit.":"litewski",
     "lub.":"lubelski",
+    "Lub.":"lubelski",
     "lw.":"lwowski",
+    "Lw.":"lwowski",
     "ośw.":"oświęcimski",
+    "Ośw.":"oświęcimski",
     "przem.":"przemyski",
+    "Przem.":"przemyski",
     "san.":"sanocki",
+    "San.":"sanocki",
     "sandom.":"sandomierski",
+    "Sandom.":"sandomierski",
     "tremb.":"trembowelski",
-    "żyd.":"żydaczowski"
+    "Tremb.":"trembowelski",
+    "żyd.":"żydaczowski",
+    "Żyd.":"żydaczowski"
 }
 
 # skróty nazw urzędów i powiązanych terminów
@@ -77,6 +97,7 @@ skroty_urz = {
     "skar.":"skarbnik",
     "sta":"starosta",
     "stol.":"stolnik",
+    "pstol.":"podstoli",
     "wda":"wojewoda"
 }
 
